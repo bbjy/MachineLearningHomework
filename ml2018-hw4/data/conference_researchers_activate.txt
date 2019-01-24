@@ -1,0 +1,16 @@
+CVPR
+Andrew W. Fitzgibbon	Pascal Fua	Daniel Cremers	Shih-Fu Chang	Bernt Schiele	Masatoshi Okutomi	David Suter	Pushmeet Kohli	Cordelia Schmid	Bodo Rosenhahn	Stephen Lin	Shuicheng Yan	Stefano Soatto	Kyoung Mu Lee	Vittorio Ferrari	Serge J. Belongie	Fernando De la Torre	Mubarak Shah	Nuno Vasconcelos	Thomas S. Huang	Dong Xu 0001	Michael S. Brown	Horst Bischof	Roberto Cipolla	Jean Ponce	Xiaoou Tang	Dimitris Samaras	Devi Parikh	Xilin Chen	Gang Hua	Ramesh Raskar
+SIGIR
+Luo Si	Iadh Ounis	Craig Macdonald	Ryen W. White	W. Bruce Croft	ChengXiang Zhai	Jimmy J. Lin	Ricardo A. Baeza-Yates	Mark D. Smucker	James Allan	Ben Carterette
+KR
+Fabio Patrizi	Riccardo Rosati	Roman Kontchakov	Joohyung Lee	Stefan Woltran	Meghyn Bienvenu	Joseph Y. Halpern	Alessio Lomuscio	Mantas Simkus	Hector J. Levesque	Carsten Lutz	Magdalena Ortiz	Gerhard Lakemeyer	Sébastien Konieczny	Sebastian Rudolph
+AAAI
+Furu Wei	Vincent Conitzer	Toby Walsh	Matthijs T. J. Spaan	Tuomas Sandholm	Shlomo Zilberstein	David Sarne	Michael Thielscher	Ming Zhou 0001	Heng Huang	Brian Charles Williams	Zhi-Hua Zhou	Matthias Scheutz	Andrea Micheli	Marco Roveri	Qiang Yang 0001	Roni Stern	Alessandro Cimatti	Marcello Restelli	Peter Stone	Feiping Nie	Edith Elkind	Henry A. Kautz	Ariel D. Procaccia	Haris Aziz 0001	Sriraam Natarajan	Sarit Kraus
+COLT
+Vianney Perchet	Ankur Moitra	Rong Ge 0001	Tomer Koren	Alexander Rakhlin	Shivani Agarwal 0001	Amit Daniely
+KDD
+Naren Ramakrishnan	Jie Tang 0001	Jimeng Sun	Wei Fan 0001	Jiawei Han 0001	Christos Faloutsos	Jieping Ye
+NIPS
+
+IJCAI
+Vincent Conitzer	Feiping Nie	Yongmei Liu 0001	Zhi-Hua Zhou	Ariel D. Procaccia	Stefan Woltran	Milind Tambe	Giuseppe De Giacomo	Thomas Eiter	Sebastian Sardiña	Toby Walsh	Carsten Lutz	Pierre Marquis	Tuomas Sandholm	Gianluigi Greco	Nicholas R. Jennings	Xingquan Zhu	Yoram Bachrach	Shlomo Zilberstein

@@ -1,0 +1,82 @@
+# 9 years
+Domenico Lembo	Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo
+	EQL-Lite: Effective First-Order Query Processing in Description Logics.	2007
+	Path-Based Identification Constraints in Description Logics.	2008
+	Data Complexity of Query Answering in Description Logics (Extended Abstract).	2015
+
+Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo
+	EQL-Lite: Effective First-Order Query Processing in Description Logics.	2007
+	View-Based Query Answering over Description Logic Ontologies.	2008
+	Path-Based Identification Constraints in Description Logics.	2008
+	Data Complexity of Query Answering in Description Logics (Extended Abstract).	2015
+
+#6 years
+Xiao Cai	Chris H. Q. Ding	Heng Huang	Feiping Nie
+	Efficient and Robust Feature Selection via Joint ℓ2, 1-Norms Minimization.	2010
+	On the equivalent of low-rank linear regressions and linear discriminant analysis based regressions.	2013
+	A Closed Form Solution to Multi-View Low-Rank Regression.	2015
+
+Brian Gallagher	Tina Eliassi-Rad	Hanghang Tong	Christos Faloutsos
+	Fast best-effort pattern matching in large attributed graphs.	2007
+	Using ghost edges for classification in sparsely labeled networks.	2008
+	It's who you know: graph mining using recursive structural features.	2011
+	RolX: structural role extraction & mining in large graphs.	2012
+
+Aswin Raghavan	Roni Khardon	Prasad Tadepalli	Alan Fern
+	Planning in Factored Action Spaces with Symbolic Dynamic Programming.	2012
+	Symbolic Opportunistic Policy Iteration for Factored-Action MDPs.	2013
+	Relational Markov Decision Processes: Promise and Prospects.	2013
+	Hindsight Optimization for Hybrid State and Action MDPs.	2017
+
+Alessandro Artale	Vladislav Ryzhikov	Roman Kontchakov	Michael Zakharyaschev
+	Past and Future of DL-Lite.	2010
+	First-Order Rewritability of Temporal Ontology-Mediated Queries.	2015
+	Tractable Interval Temporal Propositional and Description Logics.	2015
+
+# 2-3years
+Jin Kyu Kim	Seunghak Lee	Qirong Ho	Eric P. Xing
+	More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server.	2013
+	On Model Parallelization and Scheduling Strategies for Distributed Machine Learning.	2014
+	Petuum: A New Platform for Distributed Machine Learning on Big Data.	2015
+
+Yingzhen Yang	Zhangyang Wang	Shiyu Chang	Thomas S. Huang
+	Data Clustering by Laplacian Regularized L1-Graph.	2014
+	A Joint Optimization Framework of Sparse Coding and Discriminative Clustering.	2015
+	Self-tuned deep super resolution.	2015
+	Studying Very Low Resolution Recognition Using Deep Networks.	2016
+	Learning A Deep ℓ∞ Encoder for Hashing.	2016
+	Epitomic Image Super-Resolution.	2016
+	D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images.	2016
+
+Guni Sharon	Roni Stern	Ariel Felner	Nathan R. Sturtevant
+	Conflict-Based Search for Optimal Multi-Agent Path Finding.	2012
+	Partial-Expansion A* with Selective Node Generation.	2012
+	Conflict-Based Search For Optimal Multi-Agent Path Finding.	2012
+	Partial Domain Search Tree For Constraint-Satisfaction Problems.	2013
+
+Zhe Gan	Ricardo Henao	Chunyuan Li	Lawrence Carin
+	Deep Temporal Sigmoid Belief Networks for Sequence Modeling.	2015
+	Variational Autoencoder for Deep Learning of Images, Labels and Captions.	2016
+	Adversarial Symmetric Variational Autoencoder.	2017
+	VAE Learning via Stein Variational Gradient Descent.	2017
+
+Xiangfeng Wang	Shuai Xiao	Junchi Yan	Hongyuan Zha
+	On Modeling and Predicting Individual Paper Citation Count over Time.	2016
+	Modeling Contagious Merger and Acquisition via Point Processes with a Profile Regression Prior.	2016
+	On Predictive Patent Valuation: Forecasting Patent Citations and Their Types.	2017
+
+# 1 year
+Yinliang Yue	Weiping Wang	Hailun Lin	Yong Liu
+	Generalization Analysis for Ranking Using Integral Operator.	2017
+	Infinite Kernel Learning: Generalization Bounds and Algorithms.	2017
+	Efficient Kernel Selection via Spectral Analysis.	2017
+
+Alexander Shleyfman	Michael Katz 0001	Martin Wehrle	Malte Helmert
+	Factored Symmetries for Merge-and-Shrink Abstractions.	2015
+	Heuristics and Symmetries in Classical Planning.	2015
+	Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning.	2015
+
+Liqun Chen	Yunchen Pu	Chunyuan Li	Lawrence Carin
+	Adversarial Symmetric Variational Autoencoder.	2017
+	ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching.	2017
+	Triangle Generative Adversarial Networks.	2017

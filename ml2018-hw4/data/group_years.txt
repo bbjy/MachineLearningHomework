@@ -1,0 +1,241 @@
+Domenico Lembo	Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo	9
+Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo	9
+Xiao Cai	Chris H. Q. Ding	Heng Huang	Feiping Nie	6
+Brian Gallagher	Tina Eliassi-Rad	Hanghang Tong	Christos Faloutsos	6
+Aswin Raghavan	Roni Khardon	Prasad Tadepalli	Alan Fern	6
+Alessandro Artale	Vladislav Ryzhikov	Roman Kontchakov	Michael Zakharyaschev	6
+Yusheng Xie	Zhengzhang Chen	Ankit Agrawal	Alok N. Choudhary	5
+Taragay Oskiper	Zhiwei Zhu	Supun Samarasekera	Rakesh Kumar 0001	5
+Filippo Bergamasco	Andrea Albarelli	Andrea Torsello	Emanuele Rodolà	5
+Xiaowei Shao	Huijing Zhao	Xuan Song	Ryosuke Shibasaki	5
+Arjun Jain	Leonid Pishchulin	Mykhaylo Andriluka	Bernt Schiele	5
+Claude-Guy Quimper	George Katsirelos	Christian Bessiere	Nina Narodytska	Toby Walsh	5
+Krishna V. Shenoy	Byron M. Yu	John P. Cunningham	Maneesh Sahani	5
+Janardhan Rao Doppa	Xiaoli Z. Fern	Thomas G. Dietterich	Prasad Tadepalli	5
+Yexi Jiang	Wubai Zhou	Chunqiu Zeng	Tao Li 0001	5
+Bo Jiang 0002	Jin Tang	Bin Luo 0001	Chris H. Q. Ding	5
+George Katsirelos	Christian Bessiere	Nina Narodytska	Toby Walsh	5
+Zhiping Gu	Liang Hu	Jian Cao	Guandong Xu	Longbing Cao	5
+Akihiko Torii	Masatoshi Okutomi	Josef Sivic	Tomás Pajdla	5
+Li Zheng 0001	Chao Shen	Liang Tang	Tao Li 0001	5
+Xin Li 0016	Shaoping Ma	Min Zhang 0006	Yiqun Liu	4
+Bojan Pepik	Michael Stark 0003	Peter V. Gehler	Bernt Schiele	4
+Teresa Wu	Kewei Chen	Eric Reiman	Jing Li	Jieping Ye	4
+Yingce Xia	Nenghai Yu	Tao Qin	Tie-Yan Liu	4
+Leonid Pishchulin	Peter V. Gehler	Mykhaylo Andriluka	Bernt Schiele	4
+Xinchu Shi	Junliang Xing	Weiming Hu	Haibin Ling	4
+Ashish Sabharwal	Bart Selman	Stefano Ermon	Carla P. Gomes	4
+Shengxian Wan	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	4
+Haoxiang Li	Jonathan Brandt	Zhe Lin 0001	Gang Hua	4
+Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh	4
+Ting Hua	Feng Chen 0001	Chang-Tien Lu	Naren Ramakrishnan	4
+Liang Zhao 0002	Feng Chen 0001	Chang-Tien Lu	Naren Ramakrishnan	4
+Kyle R. Ulrich	Kafui Dzirasa	David E. Carlson	Lawrence Carin	4
+Emmanuel Hebrard	George Katsirelos	Christian Bessiere	Toby Walsh	4
+Zenglin Xu	Irwin King	Michael R. Lyu	Rong Jin	4
+Rupinder Paul Khandpur	Liang Zhao 0002	Chang-Tien Lu	Naren Ramakrishnan	4
+Sai Wu	Pai Peng	Ke Chen 0005	Lidan Shou	Gang Chen 0001	4
+Zhenxing Niu	Xinbo Gao	Gang Hua	Qi Tian 0001	4
+Santosh K. Suram	Ronan Le Bras	John M. Gregoire	Carla P. Gomes	4
+Dong Yi	Junjie Yan	Zhen Lei	Stan Z. Li	4
+Salman Hameed Khan	Roberto Togneri	Ferdous Ahmed Sohel	Mohammed Bennamoun	4
+Eleanor G. Rieffel	Davide Venturelli	Minh Do	Jeremy Frank	4
+Nathan Self	Parang Saraf	Patrick Butler	Naren Ramakrishnan	4
+Yingwei Pan	Houqiang Li	Ting Yao	Tao Mei	4
+Fenglong Ma	Lu Su	Qi Li 0012	Jing Gao	3
+Elena Botoeva	Vladislav Ryzhikov	Michael Zakharyaschev	Frank Wolter	3
+Wenxiu Sun	Qiong Yan	Jimmy S. J. Ren	Li Xu 0001	3
+Michael K. Schwartz	Kevin S. McKelvey	Claire A. Montgomery	Carla P. Gomes	3
+Norihito Yasuda	Masaaki Nishino	Shin-ichi Minato	Masaaki Nagata	3
+Jimei Yang	Brian L. Price	Scott Cohen	Ming-Hsuan Yang 0001	3
+Yoshihide Sekimoto	Quanshi Zhang	Xuan Song	Ryosuke Shibasaki	3
+Long Xia	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	3
+Peter Bailey	Paul Thomas	Alistair Moffat	Falk Scholer	3
+Yingzhen Yang	Zhangyang Wang	Shiyu Chang	Thomas S. Huang	3
+Moritz Helmstaedter	Winfried Denk	Kevin L. Briggman	H. Sebastian Seung	3
+Songfang Huang	Xin Gao 0001	Zhiwu Lu	Ji-Rong Wen	3
+Jin Kyu Kim	Seunghak Lee	Qirong Ho	Eric P. Xing	3
+Ziqiong Liu	Shengjin Wang	Liang Zheng 0001	Qi Tian 0001	3
+William E. Walsh	Craig Boutilier	David C. Parkes	Tuomas Sandholm	3
+Qiang Hao	Yanwei Pang	Rui Cai	Lei Zhang 0001	3
+Salvatore Orlando 0001	Franco Maria Nardini	Claudio Lucchese	Raffaele Perego 0001	3
+Siyu Tang	Bjoern Andres	Mykhaylo Andriluka	Bernt Schiele	3
+Shuzi Niu	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	3
+Omer Tsimhoni	Claudia V. Goldman	Amos Azaria	Sarit Kraus	3
+Stephen M. Chu	Junchi Yan	Xiaokang Yang	Hongyuan Zha	3
+Mingdong Ou	Wenwu Zhu 0001	Jun Wang	Peng Cui 0001	Fei Wang 0001	3
+Zhe Gan	Ricardo Henao	Chunyuan Li	Lawrence Carin	3
+Xiaoxiao Guo	Richard L. Lewis	Satinder P. Singh	Honglak Lee	3
+Stefan Hinterstoisser	Vincent Lepetit	Nassir Navab	Pascal Fua	3
+Yiming Ma	Liang Zhang	Bee-Chung Chen	Deepak Agarwal	3
+Zongyang Ma	Quan Yuan 0001	Aixin Sun	Gao Cong	3
+Giovanni Zappella	Fabio Vitale	Claudio Gentile	Nicolò Cesa-Bianchi	3
+Li Dong 0004	Ke Xu 0001	Furu Wei	Ming Zhou 0001	3
+Guoxian Dai	Yi Fang 0006	Jin Xie 0001	Fan Zhu 0001	3
+Keith Henderson	Tina Eliassi-Rad	Lei Li 0005	Leman Akoglu	Hanghang Tong	Christos Faloutsos	3
+Subhashini Venugopalan	Lisa Anne Hendricks	Marcus Rohrbach	Kate Saenko	Trevor Darrell	3
+Patrick Peursum	Senjian An	Wanquan Liu	Svetha Venkatesh	3
+Yongfeng Zhang	Shaoping Ma	Min Zhang 0006	Yiqun Liu	3
+Bin Xu 0005	Chun Chen	Jiajun Bu	Deng Cai	3
+Eugene Kharitonov	Pavel Serdyukov	Iadh Ounis	Craig Macdonald	3
+Kentaro Torisawa	Julien Kloetzer	Jong-Hoon Oh	Chikara Hashimoto	3
+Yexiang Xue	Bart Selman	Stefano Ermon	Carla P. Gomes	3
+Shi Feng	Kaisong Song	Daling Wang	Wei Gao 0001	3
+Yilin Wang	Suhang Wang	Jiliang Tang	Huan Liu 0001	3
+Yu Su 0010	Wen Gao 0001	Xilin Chen	Shiguang Shan	3
+Kai Zhong	Ian En-Hsu Yen	Pradeep Ravikumar	Inderjit S. Dhillon	3
+Li Wang	Kap Luk Chan	Bing Wang 0003	Gang Wang 0012	3
+Xiaodan Liang	Xiaohui Shen	Liang Lin	Shuicheng Yan	3
+Troy Raeder	Brian Dalessandro	Claudia Perlich	Foster J. Provost	3
+Hua Wang	Chris H. Q. Ding	Heng Huang	Feiping Nie	3
+Ke Zhou	Shaoping Ma	Min Zhang 0006	Yiqun Liu	3
+ZhongYang Huang	Zheng Song	Qiang Chen 0007	Shuicheng Yan	3
+Yilin Wang	Suhang Wang	Baoxin Li	Jiliang Tang	Huan Liu 0001	3
+Ya'akov Gal	Claudia V. Goldman	Amos Azaria	Sarit Kraus	3
+Jonathan Taylor	Shahram Izadi	Jamie Shotton	Andrew W. Fitzgibbon	3
+David S. Bolme	Yui Man Lui	Bruce A. Draper	J. Ross Beveridge	3
+Jaime Arredondo	Graham Katz	David Mares	Sathappan Muthiah	Naren Ramakrishnan	3
+Haoxiang Li	Jonathan Brandt	Xiaohui Shen	Zhe Lin 0001	Gang Hua	3
+Chun-Hao Huang	Slobodan Ilic	Edmond Boyer	Nassir Navab	3
+Yingwei Pan	Houqiang Li	Ting Yao	Yong Rui	Tao Mei	3
+Qin Lv	Li Shang	Dongsheng Li	Chao Chen	3
+Adam Fleisher	Teresa Wu	Shuai Huang	Kewei Chen	Eric Reiman	Jing Li	Jieping Ye	3
+Alkhazur Manakov	Ilya Reshetouski	Ivo Ihrke	Hans-Peter Seidel	3
+Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	3
+Kenichiro Tanaka	Hiroyuki Kubo	Yasuhiro Mukaigawa	Yasushi Yagi	Yasuyuki Matsushita	3
+Paul Stursberg	Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh	3
+Chun Chen	Jiajun Bu	Xiaofei He	Deng Cai	3
+Sam S. Tsai	David M. Chen	Radek Grzeszczuk	Bernd Girod	3
+Yun-En Liu	Travis Mandel	Zoran Popovic	Emma Brunskill	3
+Can Wang 0001	Lijun Zhang 0005	Chun Chen	Jiajun Bu	3
+Julian Straub	Trevor Campbell	Jonathan P. How	John W. Fisher III	3
+Yexi Jiang	Chunqiu Zeng	Lei Li 0001	Tao Li 0001	3
+Nuno Lau	Luís Paulo Reis	Abbas Abdolmaleki	Gerhard Neumann	3
+Jianping Yin	Yong Dou	Xinwang Liu	Lei Wang 0001	3
+Panagiotis Koutsourakis	Olivier Teboul	Loïc Simon	Nikos Paragios	3
+Shuo Yang	Ping Luo 0002	Chen Change Loy	Xiaoou Tang	2
+Zhiqi Shen	Cyril Leung	Han Yu	Chunyan Miao	2
+Zequn Jie	Xiaojie Jin	Jiashi Feng	Shuicheng Yan	2
+Jiashen Sun	Shaoping Ma	Min Zhang 0006	Yiqun Liu	2
+Yunchen Pu	Zhe Gan	Ricardo Henao	Chunyuan Li	Lawrence Carin	2
+Troy Raeder	Ori Stitelman	Brian Dalessandro	Claudia Perlich	Foster J. Provost	2
+T. Hoang Ngan Le	Chenchen Zhu	Khoa Luu	Marios Savvides	2
+Scott E. Reed	Zeynep Akata	Honglak Lee	Bernt Schiele	2
+Eldar Insafutdinov	Siyu Tang	Bjoern Andres	Bernt Schiele	2
+Wiktor Mateusz Piotrowski	Fabio Mercorio	Daniele Magazzeni	Maria Fox	Derek Long	2
+Yizhou Sun	Wei Fan 0001	Jing Gao	Jiawei Han 0001	2
+Xiao Liu 0012	Mingli Song	Chun Chen	Jiajun Bu	Dacheng Tao	2
+Baharan Mirzasoleiman	Ashwinkumar Badanidiyuru	Amin Karbasi	Andreas Krause 0001	2
+Yingming Li	Ming Yang	Zhongfei (Mark) Zhang	Zenglin Xu	2
+Wen-bing Huang	Huaping Liu	Fuchun Sun	Deli Zhao	2
+Yu Cheng 0001	Yusheng Xie	Ankit Agrawal	Alok N. Choudhary	2
+Mihalis A. Nicolaou	Irene Kotsia	Guoying Zhao	Stefanos Zafeiriou	2
+Zhou Zhao	Yueting Zhuang	Xiaofei He	Deng Cai	2
+Maria Silvia Pini	Francesca Rossi	Kristen Brent Venable	Toby Walsh	2
+Xiaowei Shao	Huijing Zhao	Quanshi Zhang	Xuan Song	Ryosuke Shibasaki	2
+Shengxian Wan	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	2
+Frank Michel	Eric Brachmann	Alexander Krull	Carsten Rother	2
+Yinpeng Dong	Hang Su	Bo Zhang 0010	Jun Zhu 0001	2
+Arkadii Slinko	Nimrod Talmon	Piotr Skowron	Piotr Faliszewski	2
+Shuai Xiao	Stephen M. Chu	Junchi Yan	Hongyuan Zha	2
+Jiaxin Mao	Shaoping Ma	Min Zhang 0006	Yiqun Liu	2
+Tamir Hazan	Alexander G. Schwing	Marc Pollefeys	Raquel Urtasun	2
+Nadia Magnenat-Thalmann	Quan Yuan 0001	Aixin Sun	Gao Cong	2
+Seyed Hamid Rezatofighi	Anton Milan	Anthony R. Dick	Ian D. Reid 0001	2
+Philip Habel	Anjie Fang	Iadh Ounis	Craig Macdonald	2
+Keren Fu	Chen Gong 0002	Jie Yang 0002	Dacheng Tao	2
+Mark Hollenbeck	Elliot Meyerson	Alexander Braylan	Risto Miikkulainen	2
+Qi Meng	Taifeng Wang	Wei Chen 0034	Tie-Yan Liu	2
+Chenguang Wang	Ming Zhang 0004	Yangqiu Song	Jiawei Han 0001	2
+Jun Xiao 0001	Xi Li 0001	Fei Wu 0001	Yueting Zhuang	2
+Yunchen Pu	Zhe Gan	Chunyuan Li	Lawrence Carin	2
+Qi Meng	Zhiming Ma	Taifeng Wang	Wei Chen 0034	Tie-Yan Liu	2
+Zhiqiang Zhuang	Zhe Wang 0001	Guilin Qi	Kewen Wang	2
+Vladislav Ryzhikov	Roman Kontchakov	Michael Zakharyaschev	Frank Wolter	2
+Chong-Wah Ngo	Yingwei Pan	Houqiang Li	Ting Yao	Tao Mei	2
+Qi Wu	Anthony R. Dick	Anton van den Hengel	Chunhua Shen	2
+Dylan Hadfield-Menell	Anca D. Dragan	Stuart J. Russell	Pieter Abbeel	2
+Maria Luisa Bonet	Jordi Levy	Felip Manyà	Carlos Ansótegui	2
+Yun Zhu 0001	Albert J. Sinusas	Xenophon Papademetris	James S. Duncan	2
+Wei Di	Anurag Bhardwaj	Robinson Piramuthu	Neel Sundaresan	2
+Cong Liu 0001	Hanjiang Lai	Yan Pan	Shuicheng Yan	2
+Xiao Liu 0012	Mingli Song	Chun Chen	Jiajun Bu	2
+Shuai Xiao	Junchi Yan	Xiaokang Yang	Hongyuan Zha	2
+Huan Wang 0001	Thomas S. Huang	Xiaoou Tang	Shuicheng Yan	2
+Can Wang 0001	Ziyu Guan	Chun Chen	Jiajun Bu	2
+Salvatore Orlando 0001	Franco Maria Nardini	Claudio Lucchese	Nicola Tonellotto	Raffaele Perego 0001	2
+Yonglong Tian	Ping Luo 0002	Xiaogang Wang	Xiaoou Tang	2
+En Zhu	Jianping Yin	Yong Dou	Xinwang Liu	Lei Wang 0001	2
+Xiaodan Liang	Xiaohui Shen	Liang Lin	Jiashi Feng	Shuicheng Yan	2
+Xiuzi Ye	Mingyu Fan	Di Wang	Xiaoqin Zhang	2
+Wenwu Zhu 0001	Shiqiang Yang	Peng Cui 0001	Fei Wang 0001	2
+Honghui Shi	Ding Liu	Zhangyang Wang	Thomas S. Huang	2
+Qi Wu	Peng Wang 0015	Anton van den Hengel	Chunhua Shen	2
+Gabriel Takacs	Sam S. Tsai	David M. Chen	Radek Grzeszczuk	Bernd Girod	Vijay Chandrasekhar	2
+Zhengxiang Pan	Cyril Leung	Han Yu	Chunyan Miao	2
+Yunhe Wang	Chang Xu 0002	Chao Xu 0006	Dacheng Tao	2
+Qiang Liu 0006	Shu Wu	Liang Wang 0001	Tieniu Tan	2
+Wookhee Min	Jonathan P. Rowe	James C. Lester	Bradford W. Mott	2
+Hong-Jiang Zhang	Jinhui Tang	Guo-Jun Qi	Yong Rui	Xian-Sheng Hua	2
+Dong Gong	Yanning Zhang	Qinfeng Shi	Anton van den Hengel	2
+Claudia V. Goldman	Zinovi Rabinovich	Amos Azaria	Sarit Kraus	2
+Yunchen Pu	Ricardo Henao	Chunyuan Li	Lawrence Carin	2
+Robert Walecki	Ognjen Rudovic	Vladimir Pavlovic	Maja Pantic	2
+Wei Wei 0008	Zhen Zhang	Julian J. McAuley	Yanning Zhang	Qinfeng Shi	2
+Maria Polukarov	Zinovi Rabinovich	Svetlana Obraztsova	Nicholas R. Jennings	2
+Narayan Bhamidipati	Vladan Radosavljevic	Mihajlo Grbovic	Nemanja Djuric	2
+Jing-Cheng Shi	Chao Qian	Ke Tang	Yang Yu 0001	Zhi-Hua Zhou	2
+Kei Kobayashi	Kazuo Hara	Ikumi Suzuki	Kenji Fukumizu	2
+Wen Sun 0002	Arun Venkatraman	Byron Boots	Martial Hebert	2
+Zehan Wang	Jose Caballero	Johannes Totz	Andrew P. Aitken	Wenzhe Shi	2
+Salvatore Trani	Franco Maria Nardini	Claudio Lucchese	Raffaele Perego 0001	2
+Qi Li 0012	Bo Zhao 0001	Jing Gao	Jiawei Han 0001	2
+Guni Sharon	Roni Stern	Ariel Felner	Nathan R. Sturtevant	2
+Stefan Gumhold	Frank Michel	Eric Brachmann	Alexander Krull	Carsten Rother	2
+Minnan Luo	Qinghua Zheng	Xiaojun Chang	Feiping Nie	2
+Kunpeng Zhang	Yu Cheng 0001	Yusheng Xie	Ankit Agrawal	Alok N. Choudhary	2
+Yunchao Wei	Xiaodan Liang	Jiashi Feng	Shuicheng Yan	2
+Shan You	Chang Xu 0002	Chao Xu 0006	Dacheng Tao	2
+Zhandong Liu	Genevera I. Allen	Eunho Yang	Pradeep Ravikumar	2
+Xinggang Wang	Wenyu Liu	Xiang Bai	Longin Jan Latecki	2
+Miaomiao Li	En Zhu	Jianping Yin	Yong Dou	Xinwang Liu	2
+Simon Mackenzie	Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh	2
+Zhen Zuo	Bing Wang 0003	Bing Shuai	Gang Wang 0012	2
+Igor Yanovsky	Stanley Osher	Alex D. Leow	Paul M. Thompson	2
+Yongli Hu	Yanfeng Sun	Baocai Yin	Junbin Gao	2
+Tim Hanratty	Quan Yuan 0001	Chao Zhang	Jiawei Han 0001	2
+Liz Sonenberg	Paolo Felli	Tim Miller	Adrian R. Pearce	Christian J. Muise	2
+Zhe Wang	Ling-Yu Duan	Tiejun Huang	Wen Gao 0001	2
+Zhiwu Huang	Ruiping Wang 0001	Xilin Chen	Shiguang Shan	2
+Bharath K. Sriperumbudur	Kenji Fukumizu	Arthur Gretton	Bernhard Schölkopf	2
+Shant Karakashian	Robert J. Woodward	Berthe Y. Choueiry	Christian Bessiere	2
+Qin Lv	Li Shang	Dongsheng Li	Chao Chen	Stephen M. Chu	2
+Roozbeh Mottaghi	Sanja Fidler	Alan L. Yuille	Raquel Urtasun	2
+Meir Goldenberg	Guni Sharon	Roni Stern	Ariel Felner	2
+En Zhu	Jianping Yin	Yong Dou	Xinwang Liu	2
+Nikolaus Mayer	Eddy Ilg	Alexey Dosovitskiy	Thomas Brox	2
+Alina Bialkowski	Peter Carr 0001	Patrick Lucey	Iain A. Matthews	2
+Wenyuan Dai	Gui-Rong Xue	Yong Yu	Qiang Yang 0001	2
+Yan Duan	Rein Houthooft	John Schulman	Xi Chen 0022	Pieter Abbeel	2
+Jing-Cheng Shi	Chao Qian	Ke Tang	Yang Yu 0001	2
+Xiangfeng Wang	Shuai Xiao	Junchi Yan	Hongyuan Zha	2
+Hanmo Wang	Peng Zhou	Lei Shi	Liang Du	Yi-Dong Shen	1
+Yinliang Yue	Weiping Wang	Hailun Lin	Yong Liu	1
+Mayu Iwata	Makoto P. Kato	Takehiro Yamamoto	Tetsuya Sakai	1
+Zhecan Wang	Jianshu Li	Jiashi Feng	Shuicheng Yan	1
+Liang Pang	Shengxian Wan	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	1
+Luchen Tan	Adam Roegiest	Charles L. A. Clarke	Jimmy J. Lin	1
+Ding Liu	Yingzhen Yang	Zhangyang Wang	Shiyu Chang	Thomas S. Huang	1
+Jie Qin	Yunhong Wang	Li Liu 0004	Ling Shao 0001	1
+Liqun Chen	Yunchen Pu	Chunyuan Li	Lawrence Carin	1
+Florian Strub	Harm de Vries	Olivier Pietquin	Aaron C. Courville	1
+Jianshu Li	Jian Zhao	Jiashi Feng	Shuicheng Yan	1
+Yue Gao	Jungong Han	Yuchen Guo	Guiguang Ding	1
+Jianshu Li	Yunpeng Chen	Jiashi Feng	Shuicheng Yan	1
+Yunpeng Chen	Xiaojie Jin	Jiashi Feng	Shuicheng Yan	1
+Dan Xu 0002	Elisa Ricci 0001	Nicu Sebe	Wanli Ouyang	Xiaogang Wang	1
+Paul Duckworth	Muhannad Al-Omari	David C. Hogg	Anthony G. Cohn	1
+Sarah Keren	Luis Enrique Pineda	Avigdor Gal	Erez Karpas	Shlomo Zilberstein	1
+Nihit Desai	Marina Danilevsky	Chi Wang 0001	Jiawei Han 0001	1
+Liang Pang	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng	1
+Alexander Shleyfman	Michael Katz 0001	Martin Wehrle	Malte Helmert	1

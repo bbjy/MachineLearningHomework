@@ -1,0 +1,1295 @@
+T. Hoang Ngan Le	Chenchen Zhu	Khoa Luu	Marios Savvides
+	Multiple Scale Faster-RCNN Approach to Driver's Cell-Phone Usage and Hands on Steering Wheel Detection.	2016
+	Weakly Supervised Facial Analysis with Dense Hyper-Column Features.	2016
+	Robust Hand Detection and Classification in Vehicles and in the Wild.	2017
+
+Zequn Jie	Xiaojie Jin	Jiashi Feng	Shuicheng Yan
+	Tree-Structured Reinforcement Learning for Sequential Object Localization.	2016
+	Predicting Scene Parsing and Motion Dynamics in the Future.	2017
+	Multi-Path Feedback Recurrent Neural Networks for Scene Parsing.	2017
+
+Leonid Pishchulin	Peter V. Gehler	Mykhaylo Andriluka	Bernt Schiele
+	Poselet Conditioned Pictorial Structures.	2013
+	2D Human Pose Estimation: New Benchmark and State of the Art Analysis.	2014
+	DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation.	2016
+
+Kyle R. Ulrich	Kafui Dzirasa	David E. Carlson	Lawrence Carin
+	Analysis of Brain States from Multi-Region LFP Time-Series.	2014
+	GP Kernels for Cross-Spectrum Analysis.	2015
+	Cross-Spectral Factor Analysis.	2017
+
+Omer Tsimhoni	Claudia V. Goldman	Amos Azaria	Sarit Kraus
+	Advice Provision for Energy Saving in Automobile Climate Control Systems.	2014
+	Adaptive Advice in Automobile Climate Control Systems.	2015
+	Personalized Alert Agent for Optimal User Performance.	2016
+
+Stefan Gumhold	Frank Michel	Eric Brachmann	Alexander Krull	Carsten Rother
+	Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image.	2016
+	Global Hypothesis Generation for 6D Object Pose Estimation.	2017
+	DSAC - Differentiable RANSAC for Camera Localization.	2017
+
+Elena Botoeva	Vladislav Ryzhikov	Michael Zakharyaschev	Frank Wolter
+	Query Inseparability for Description Logic Knowledge Bases.	2014
+	When Are Description Logic Knowledge Bases Indistinguishable?	2015
+	Query-Based Entailment and Inseparability for ALC Ontologies.	2016
+
+Shengxian Wan	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	Informational friend recommendation in social media.	2013
+	Learning Hierarchical Representation Model for NextBasket Recommendation.	2015
+	A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations.	2016
+	Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN.	2016
+	Text Matching as Image Recognition.	2016
+
+Shengxian Wan	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	Learning Hierarchical Representation Model for NextBasket Recommendation.	2015
+	A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations.	2016
+	Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN.	2016
+	Text Matching as Image Recognition.	2016
+
+Igor Yanovsky	Stanley Osher	Alex D. Leow	Paul M. Thompson
+	Multiphase Segmentation of Deformation using Logarithmic Priors.	2007
+	Topology Preserving Log-Unbiased Nonlinear Image Registration: Theory and Implementation.	2007
+	Asymmetric and symmetric unbiased image registration: Statistical assessment of performance.	2008
+
+Qi Wu	Anthony R. Dick	Anton van den Hengel	Chunhua Shen
+	What Value Do Explicit High Level Concepts Have in Vision to Language Problems?	2016
+	Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge from External Sources.	2016
+	Explicit Knowledge-based Reasoning for Visual Question Answering.	2017
+
+Qi Wu	Peng Wang 0015	Anton van den Hengel	Chunhua Shen
+	Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge from External Sources.	2016
+	The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions.	2017
+	Explicit Knowledge-based Reasoning for Visual Question Answering.	2017
+
+Zhiping Gu	Liang Hu	Jian Cao	Guandong Xu	Longbing Cao
+	Cross-Domain Collaborative Filtering via Bilinear Multilevel Analysis.	2013
+	Deep Modeling of Group Preferences for Group-Based Recommendation.	2014
+	Diversifying Personalized Recommendation with User-session Context.	2017
+
+Moritz Helmstaedter	Winfried Denk	Kevin L. Briggman	H. Sebastian Seung
+	Maximin affinity learning of image segmentation.	2009
+	Boundary Learning by Optimization with Topological Constraints.	2010
+	Learning to Agglomerate Superpixel Hierarchies.	2011
+
+Claude-Guy Quimper	George Katsirelos	Christian Bessiere	Nina Narodytska	Toby Walsh
+	Decompositions of All Different, Global Cardinality and Related Constraints.	2009
+	Propagating Conjunctions of AllDifferent Constraints.	2010
+	Constraint Acquisition via Partial Queries.	2013
+
+Brian Gallagher	Tina Eliassi-Rad	Hanghang Tong	Christos Faloutsos
+	Fast best-effort pattern matching in large attributed graphs.	2007
+	Using ghost edges for classification in sparsely labeled networks.	2008
+	It's who you know: graph mining using recursive structural features.	2011
+	RolX: structural role extraction & mining in large graphs.	2012
+
+Long Xia	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures.	2015
+	Modeling Document Novelty with Neural Tensor Network for Search Result Diversification.	2016
+	Adapting Markov Decision Process for Search Result Diversification.	2017
+
+Zhe Wang	Ling-Yu Duan	Tiejun Huang	Wen Gao 0001
+	Hamming Compatible Quantization for Hashing.	2015
+	Affinity Preserving Quantization for Hashing: A Vector Quantization Approach to Compact Learn Binary Codes.	2016
+	To Project More or to Quantize More: Minimize Reconstruction Bias for Learning Compact Binary Codes.	2016
+
+Tim Hanratty	Quan Yuan 0001	Chao Zhang	Jiawei Han 0001
+	GMove: Group-Level Mobility Modeling Using Geo-Tagged Social Media.	2016
+	TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams.	2017
+	ReAct: Online Multimodal Embedding for Recency-Aware Spatiotemporal Activity Modeling.	2017
+
+Yu Su 0010	Wen Gao 0001	Xilin Chen	Shiguang Shan
+	Classifiability-based Optimal Discriminatory Projection Pursuit.	2008
+	Unified Principal Component Analysis with generalized Covariance Matrix for face recognition.	2008
+	Adaptive generic learning for face recognition from a single sample per person.	2010
+
+Qin Lv	Li Shang	Dongsheng Li	Chao Chen
+	WEMAREC: Accurate and Scalable Recommendation through Weighted and Ensemble Matrix Approximation.	2015
+	MPMA: Mixture Probabilistic Matrix Approximation for Collaborative Filtering.	2016
+	GLOMA: Embedding Global Information in Local Matrix Approximation Models for Collaborative Filtering.	2017
+	ERMMA: Expected Risk Minimization for Matrix Approximation-based Recommender Systems.	2017
+
+Qin Lv	Li Shang	Dongsheng Li	Chao Chen	Stephen M. Chu
+	MPMA: Mixture Probabilistic Matrix Approximation for Collaborative Filtering.	2016
+	GLOMA: Embedding Global Information in Local Matrix Approximation Models for Collaborative Filtering.	2017
+	ERMMA: Expected Risk Minimization for Matrix Approximation-based Recommender Systems.	2017
+
+Guoxian Dai	Yi Fang 0006	Jin Xie 0001	Fan Zhu 0001
+	3D deep shape descriptor.	2015
+	Learning Barycentric Representations of 3D Shapes for Sketch-Based 3D Shape Retrieval.	2017
+	Deep Correlated Metric Learning for Sketch-based 3D Shape Retrieval.	2017
+
+Wenxiu Sun	Qiong Yan	Jimmy S. J. Ren	Li Xu 0001
+	Shepard Convolutional Neural Networks.	2015
+	Look, Listen and Learn - A Multimodal LSTM for Speaker Identification.	2016
+	Accurate Single Stage Detector Using Recurrent Rolling Convolution.	2017
+
+Subhashini Venugopalan	Lisa Anne Hendricks	Marcus Rohrbach	Kate Saenko	Trevor Darrell
+	Long-term recurrent convolutional networks for visual recognition and description.	2015
+	Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data.	2016
+	Captioning Images with Diverse Objects.	2017
+
+Dong Yi	Junjie Yan	Zhen Lei	Stan Z. Li
+	Multi-pedestrian detection in crowded scenes: A global view.	2012
+	Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph.	2014
+	High-fidelity Pose and Expression Normalization for face recognition in the wild.	2015
+
+Zongyang Ma	Quan Yuan 0001	Aixin Sun	Gao Cong
+	Time-aware point-of-interest recommendation.	2013
+	Who, where, when and what: discover spatio-temporal topics for twitter users.	2013
+	A Tri-Role Topic Model for Domain-Specific Question Answering.	2015
+
+Dong Gong	Yanning Zhang	Qinfeng Shi	Anton van den Hengel
+	Blind Image Deconvolution by Automatic Gradient Activation.	2016
+	From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur.	2017
+	MPGL: An Efficient Matching Pursuit Method for Generalized LASSO.	2017
+
+Zhandong Liu	Genevera I. Allen	Eunho Yang	Pradeep Ravikumar
+	Graphical Models via Generalized Linear Models.	2012
+	On Poisson Graphical Models.	2013
+	Conditional Random Fields via Univariate Exponential Families.	2013
+
+Liang Pang	Shengxian Wan	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations.	2016
+	Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN.	2016
+	Text Matching as Image Recognition.	2016
+
+Liang Pang	Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations.	2016
+	Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN.	2016
+	SPAN: Understanding a Question with Its Support Answers.	2016
+	Text Matching as Image Recognition.	2016
+
+Keren Fu	Chen Gong 0002	Jie Yang 0002	Dacheng Tao
+	ReLISH: Reliable Label Inference via Smoothness Hypothesis.	2014
+	Signed Laplacian Embedding for Supervised Dimension Reduction.	2014
+	Saliency propagation from simple to difficult.	2015
+
+George Katsirelos	Christian Bessiere	Nina Narodytska	Toby Walsh
+	Decompositions of All Different, Global Cardinality and Related Constraints.	2009
+	Circuit Complexity and Decompositions of Global Constraints.	2009
+	Propagating Conjunctions of AllDifferent Constraints.	2010
+	Constraint Acquisition via Partial Queries.	2013
+
+Yilin Wang	Suhang Wang	Jiliang Tang	Huan Liu 0001
+	Unsupervised Sentiment Analysis for Social Media Images.	2015
+	Exploring Implicit Hierarchical Structures for Recommender Systems.	2015
+	PPP: Joint Pointwise and Pairwise Image Label Prediction.	2016
+	CLARE: A Joint Approach to Label Classification and Tag Recommendation.	2017
+
+Yilin Wang	Suhang Wang	Baoxin Li	Jiliang Tang	Huan Liu 0001
+	Unsupervised Sentiment Analysis for Social Media Images.	2015
+	PPP: Joint Pointwise and Pairwise Image Label Prediction.	2016
+	CLARE: A Joint Approach to Label Classification and Tag Recommendation.	2017
+
+Cong Liu 0001	Hanjiang Lai	Yan Pan	Shuicheng Yan
+	Rank Aggregation via Low-Rank and Structured-Sparse Decomposition.	2013
+	A Divide-and-Conquer Method for Scalable Low-Rank Latent Matrix Pursuit.	2013
+	Supervised Hashing for Image Retrieval via Image Representation Learning.	2014
+
+Hong-Jiang Zhang	Jinhui Tang	Guo-Jun Qi	Yong Rui	Xian-Sheng Hua
+	Concurrent Multiple Instance Learning for Image Categorization.	2007
+	Two-Dimensional Active Learning for image classification.	2008
+	A joint appearance-spatial distance for kernel-based image categorization.	2008
+
+Yizhou Sun	Wei Fan 0001	Jing Gao	Jiawei Han 0001
+	Heterogeneous source consensus learning via decision propagation and negotiation.	2009
+	Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models.	2009
+	On community outliers and their efficient detection in information networks.	2010
+
+Xiangfeng Wang	Shuai Xiao	Junchi Yan	Hongyuan Zha
+	On Modeling and Predicting Individual Paper Citation Count over Time.	2016
+	Modeling Contagious Merger and Acquisition via Point Processes with a Profile Regression Prior.	2016
+	On Predictive Patent Valuation: Forecasting Patent Citations and Their Types.	2017
+
+Shi Feng	Kaisong Song	Daling Wang	Wei Gao 0001
+	Personalized Sentiment Classification Based on Latent Individuality of Microblog Users.	2015
+	Build Emotion Lexicon from the Mood of Crowd via Topic-Assisted Joint Non-negative Matrix Factorization.	2016
+	Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness.	2017
+
+Taragay Oskiper	Zhiwei Zhu	Supun Samarasekera	Rakesh Kumar 0001
+	Visual Odometry System Using Multiple Stereo Cameras and Inertial Measurement Unit.	2007
+	Real-time global localization with a pre-built visual landmark database.	2008
+	VideoTrek: A vision system for a tag-along robot.	2009
+	High-precision localization using visual landmarks fused with range data.	2011
+
+Zehan Wang	Jose Caballero	Johannes Totz	Andrew P. Aitken	Wenzhe Shi
+	Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network.	2016
+	Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation.	2017
+	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.	2017
+
+Bharath K. Sriperumbudur	Kenji Fukumizu	Arthur Gretton	Bernhard Schölkopf
+	Characteristic Kernels on Groups and Semigroups.	2008
+	Injective Hilbert Space Embeddings of Probability Measures.	2008
+	Kernel Choice and Classifiability for RKHS Embeddings of Probability Distributions.	2009
+
+Wenwu Zhu 0001	Shiqiang Yang	Peng Cui 0001	Fei Wang 0001
+	Comparing apples to oranges: a scalable solution with heterogeneous hashing.	2013
+	Cascading outbreak prediction in networks: a data-driven approach.	2013
+	FEMA: flexible evolutionary multi-faceted analysis for dynamic behavioral pattern discovery.	2014
+
+Xinchu Shi	Junliang Xing	Weiming Hu	Haibin Ling
+	Multi-target Tracking by Rank-1 Tensor Approximation.	2013
+	Multi-target Tracking with Motion Context in Tensor Power Iteration.	2014
+	Tensor Power Iteration for Multi-graph Matching.	2016
+
+Yunpeng Chen	Xiaojie Jin	Jiashi Feng	Shuicheng Yan
+	Predicting Scene Parsing and Motion Dynamics in the Future.	2017
+	Multi-Path Feedback Recurrent Neural Networks for Scene Parsing.	2017
+	Training Group Orthogonal Neural Networks with Privileged Information.	2017
+	Dual Path Networks.	2017
+
+Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo
+	EQL-Lite: Effective First-Order Query Processing in Description Logics.	2007
+	View-Based Query Answering over Description Logic Ontologies.	2008
+	Path-Based Identification Constraints in Description Logics.	2008
+	Data Complexity of Query Answering in Description Logics (Extended Abstract).	2015
+
+Zhou Zhao	Yueting Zhuang	Xiaofei He	Deng Cai
+	Expert Finding for Community-Based Question Answering via Ranking Metric Network Learning.	2016
+	Video Question Answering via Hierarchical Spatio-Temporal Attention Networks.	2017
+	Community-Based Question Answering via Asymmetric Multi-Faceted Ranking Network Learning.	2017
+	Microblog Sentiment Classification via Recurrent Random Walk Network Learning.	2017
+	Link Prediction via Ranking Metric Dual-Level Attention Network Learning.	2017
+
+Wen-bing Huang	Huaping Liu	Fuchun Sun	Deli Zhao
+	Scalable Gaussian Process Regression Using Deep Neural Networks.	2015
+	Sparse Coding and Dictionary Learning with Linear Dynamical Systems.	2016
+	Learning Stable Linear Dynamical Systems with the Weighted Least Square Method.	2016
+
+Nuno Lau	Luís Paulo Reis	Abbas Abdolmaleki	Gerhard Neumann
+	Model-Based Relative Entropy Stochastic Search.	2015
+	Stochastic Search In Changing Situations.	2017
+	Contextual Covariance Matrix Adaptation Evolutionary Strategies.	2017
+
+Kei Kobayashi	Kazuo Hara	Ikumi Suzuki	Kenji Fukumizu
+	Reducing Hubness: A Cause of Vulnerability in Recommender Systems.	2015
+	Localized Centering: Reducing Hubness in Large-Sample Data.	2015
+	Flattening the Density Gradient for Eliminating Spatial Centrality to Reduce Hubness.	2016
+
+Yinliang Yue	Weiping Wang	Hailun Lin	Yong Liu
+	Generalization Analysis for Ranking Using Integral Operator.	2017
+	Infinite Kernel Learning: Generalization Bounds and Algorithms.	2017
+	Efficient Kernel Selection via Spectral Analysis.	2017
+
+Sai Wu	Pai Peng	Ke Chen 0005	Lidan Shou	Gang Chen 0001
+	The knowing camera: recognizing places-of-interest in smartphone photos.	2013
+	The knowing camera 2: recognizing and annotating places-of-interest in smartphone photos.	2014
+	iGlasses: A Novel Recommendation System for Best-fit Glasses.	2016
+
+Vladislav Ryzhikov	Roman Kontchakov	Michael Zakharyaschev	Frank Wolter
+	Query Inseparability for Description Logic Knowledge Bases.	2014
+	First-Order Rewritability of Temporal Ontology-Mediated Queries.	2015
+	When Are Description Logic Knowledge Bases Indistinguishable?	2015
+
+Jiaxin Mao	Shaoping Ma	Min Zhang 0006	Yiqun Liu
+	When does Relevance Mean Usefulness and User Satisfaction in Web Search?	2016
+	How does Domain Expertise Affect Users' Search Processes in Exploratory Searches?	2016
+	Understanding and Predicting Usefulness Judgment in Web Search.	2017
+
+Liang Zhao 0002	Feng Chen 0001	Chang-Tien Lu	Naren Ramakrishnan
+	STED: semi-supervised targeted-interest event detectionin in twitter.	2013
+	'Beating the news' with EMBERS: forecasting civil unrest using open source indicators.	2014
+	Multi-Task Learning for Spatio-Temporal Event Forecasting.	2015
+	Hierarchical Incomplete Multi-source Feature Learning for Spatiotemporal Event Forecasting.	2016
+
+Frank Michel	Eric Brachmann	Alexander Krull	Carsten Rother
+	Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image.	2016
+	Global Hypothesis Generation for 6D Object Pose Estimation.	2017
+	DSAC - Differentiable RANSAC for Camera Localization.	2017
+	PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning.	2017
+
+Jing-Cheng Shi	Chao Qian	Ke Tang	Yang Yu 0001
+	Parallel Pareto Optimization for Subset Selection.	2016
+	On Subset Selection with General Cost Constraints.	2017
+	Subset Selection under Noise.	2017
+	Optimizing Ratio of Monotone Set Functions.	2017
+
+Jing-Cheng Shi	Chao Qian	Ke Tang	Yang Yu 0001	Zhi-Hua Zhou
+	Parallel Pareto Optimization for Subset Selection.	2016
+	Optimizing Ratio of Monotone Set Functions.	2017
+	Subset Selection under Noise.	2017
+
+Shuai Xiao	Junchi Yan	Xiaokang Yang	Hongyuan Zha
+	On Modeling and Predicting Individual Paper Citation Count over Time.	2016
+	Modeling Contagious Merger and Acquisition via Point Processes with a Profile Regression Prior.	2016
+	Wasserstein Learning of Deep Generative Point Process Models.	2017
+	Modeling the Intensity Function of Point Process Via Recurrent Neural Networks.	2017
+
+Shuai Xiao	Stephen M. Chu	Junchi Yan	Hongyuan Zha
+	On Modeling and Predicting Individual Paper Citation Count over Time.	2016
+	On Predictive Patent Valuation: Forecasting Patent Citations and Their Types.	2017
+	Modeling the Intensity Function of Point Process Via Recurrent Neural Networks.	2017
+
+Salvatore Orlando 0001	Franco Maria Nardini	Claudio Lucchese	Raffaele Perego 0001
+	Speeding up Document Ranking with Rank-based Features.	2015
+	QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees.	2015
+	Post-Learning Optimization of Tree Ensembles for Efficient Ranking.	2016
+	Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles.	2016
+	X-DART: Blending Dropout and Pruning for Efficient Learning to Rank.	2017
+
+Salvatore Orlando 0001	Franco Maria Nardini	Claudio Lucchese	Nicola Tonellotto	Raffaele Perego 0001
+	Speeding up Document Ranking with Rank-based Features.	2015
+	QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees.	2015
+	Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles.	2016
+
+Zhiqiang Zhuang	Zhe Wang 0001	Guilin Qi	Kewen Wang
+	Contraction and Revision over DL-Lite TBoxes.	2014
+	Instance-Driven Ontology Evolution in DL-Lite.	2015
+	Approximating Model-Based ABox Revision in DL-Lite: Theory and Practice.	2015
+
+Qi Li 0012	Bo Zhao 0001	Jing Gao	Jiawei Han 0001
+	On the Discovery of Evolving Truth.	2015
+	FaitCrowd: Fine Grained Truth Discovery for Crowdsourced Data Aggregation.	2015
+	Mining Reliable Information from Passively and Actively Crowdsourced Data.	2016
+
+Simon Mackenzie	Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh
+	Computational Aspects of Multi-Winner Approval Voting.	2014
+	Fixing a Balanced Knockout Tournament.	2014
+	Equilibria Under the Probabilistic Serial Rule.	2015
+
+Zhiwu Huang	Ruiping Wang 0001	Xilin Chen	Shiguang Shan
+	Learning Euclidean-to-Riemannian Metric for Point-to-Set Classification.	2014
+	Discriminant analysis on Riemannian manifold of Gaussian distributions for face recognition with image sets.	2015
+	Projection Metric Learning on Grassmann Manifold with Application to Video based Face Recognition.	2015
+	Face video retrieval with image query via hashing across Euclidean space and Riemannian manifold.	2015
+
+Nathan Self	Parang Saraf	Patrick Butler	Naren Ramakrishnan
+	Forex-foreteller: currency trend modeling using news articles.	2013
+	'Beating the news' with EMBERS: forecasting civil unrest using open source indicators.	2014
+	EMBERS at 4 years: Experiences operating an Open Source Indicators Forecasting System.	2016
+
+Hanmo Wang	Peng Zhou	Lei Shi	Liang Du	Yi-Dong Shen
+	Recovery of Corrupted Multiple Kernels for Clustering.	2015
+	Learning a Robust Consensus Matrix for Clustering Ensemble via Kullback-Leibler Divergence Minimization.	2015
+	Robust Multiple Kernel K-means Using L21-Norm.	2015
+	Convex Batch Mode Active Sampling via α-Relative Pearson Divergence.	2015
+
+Giovanni Zappella	Fabio Vitale	Claudio Gentile	Nicolò Cesa-Bianchi
+	Active Learning on Trees and Graphs.	2010
+	See the Tree Through the Lines: The Shazoo Algorithm.	2011
+	A Linear Time Active Learning Algorithm for Link Classification.	2012
+
+Florian Strub	Harm de Vries	Olivier Pietquin	Aaron C. Courville
+	Modulating early visual processing by language.	2017
+	GuessWhat?! Visual Object Discovery through Multi-modal Dialogue.	2017
+	End-to-end optimization of goal-driven and visually grounded dialogue systems.	2017
+
+Yun-En Liu	Travis Mandel	Zoran Popovic	Emma Brunskill
+	The Queue Method: Handling Delay, Heuristics, Prior Data, and Evaluation in Bandits.	2015
+	Efficient Bayesian Clustering for Reinforcement Learning.	2016
+	Offline Evaluation of Online Reinforcement Learning Algorithms.	2016
+	Where to Add Actions in Human-in-the-Loop Reinforcement Learning.	2017
+
+Yunchao Wei	Xiaodan Liang	Jiashi Feng	Shuicheng Yan
+	Reversible Recursive Instance-Level Object Segmentation.	2016
+	Perceptual Generative Adversarial Networks for Small Object Detection.	2017
+	Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach.	2017
+
+Li Zheng 0001	Chao Shen	Liang Tang	Tao Li 0001
+	Using data mining techniques to address critical information exchange needs in disaster affected public-private networks.	2010
+	Applying data mining techniques to address disaster information management challenges on mobile devices.	2011
+	Applying data mining techniques to address critical process optimization needs in advanced manufacturing.	2014
+
+Santosh K. Suram	Ronan Le Bras	John M. Gregoire	Carla P. Gomes
+	Challenges in Materials Discovery - Synthetic Generator and Real Datasets.	2014
+	Pattern Decomposition with Complex Combinatorial Constraints: Application to Materials Discovery.	2015
+	Phase-Mapper: An AI Platform to Accelerate High Throughput Materials Discovery.	2017
+
+Narayan Bhamidipati	Vladan Radosavljevic	Mihajlo Grbovic	Nemanja Djuric
+	Non-Linear Label Ranking for Large-Scale Prediction of Long-Term User Interests.	2014
+	Gender and Interest Targeting for Sponsored Post Advertising at Tumblr.	2015
+	E-commerce in Your Inbox: Product Recommendations at Scale.	2015
+	Context- and Content-aware Embeddings for Query Rewriting in Sponsored Search.	2015
+
+Eldar Insafutdinov	Siyu Tang	Bjoern Andres	Bernt Schiele
+	DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation.	2016
+	Joint Graph Decomposition & Node Labeling: Problem, Algorithms, Applications.	2017
+	ArtTrack: Articulated Multi-Person Tracking in the Wild.	2017
+
+Philip Habel	Anjie Fang	Iadh Ounis	Craig Macdonald
+	Topic-centric Classification of Twitter User's Political Orientation.	2015
+	Using Word Embedding to Evaluate the Coherence of Topics from Twitter Data.	2016
+	Examining the Coherence of the Top Ranked Tweet Topics.	2016
+
+Ding Liu	Yingzhen Yang	Zhangyang Wang	Shiyu Chang	Thomas S. Huang
+	Epitomic Image Super-Resolution.	2016
+	D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images.	2016
+	Studying Very Low Resolution Recognition Using Deep Networks.	2016
+
+Yingming Li	Ming Yang	Zhongfei (Mark) Zhang	Zenglin Xu
+	Learning with Marginalized Corrupted Features and Labels Together.	2016
+	Multi-View Learning with Limited and Noisy Tagging.	2016
+	Learning with Feature Network and Label Network Simultaneously.	2017
+
+Yoshihide Sekimoto	Quanshi Zhang	Xuan Song	Ryosuke Shibasaki
+	Modeling and probabilistic reasoning of population evacuation during large-scale disaster.	2013
+	Intelligent System for Urban Emergency Management during Large-Scale Disaster.	2014
+	Prediction of human emergency behavior and their mobility following large-scale disaster.	2014
+	A Simulator of Human Emergency Mobility Following Disasters: Knowledge Transfer from Big Disaster Data.	2015
+
+Zhengxiang Pan	Cyril Leung	Han Yu	Chunyan Miao
+	Efficient Collaborative Crowdsourcing.	2016
+	Productive Aging through Intelligent Personalized Crowdsourcing.	2016
+	Crowdsensing Air Quality with Camera-Enabled Mobile Devices.	2017
+
+Meir Goldenberg	Guni Sharon	Roni Stern	Ariel Felner
+	The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding.	2011
+	A* Variants for Optimal Multi-Agent Pathfinding.	2012
+	Partial-Expansion A* with Selective Node Generation.	2012
+
+Wei Wei 0008	Zhen Zhang	Julian J. McAuley	Yanning Zhang	Qinfeng Shi
+	Pairwise Matching through Max-Weight Bipartite Belief Propagation.	2016
+	Solving Constrained Combinatorial Optimisation Problems via MAP Inference without High-Order Penalties.	2017
+	Dynamic Programming Bipartite Belief Propagation For Hyper Graph Matching.	2017
+
+Wookhee Min	Jonathan P. Rowe	James C. Lester	Bradford W. Mott
+	Player Goal Recognition in Open-World Digital Games with Long Short-Term Memory Networks.	2016
+	Deep LSTM-Based Goal Recognition Models for Open-World Digital Games.	2017
+	Interactive Narrative Personalization with Deep Reinforcement Learning.	2017
+
+Alexander Shleyfman	Michael Katz 0001	Martin Wehrle	Malte Helmert
+	Factored Symmetries for Merge-and-Shrink Abstractions.	2015
+	Heuristics and Symmetries in Classical Planning.	2015
+	Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning.	2015
+
+Scott E. Reed	Zeynep Akata	Honglak Lee	Bernt Schiele
+	Evaluation of output embeddings for fine-grained image classification.	2015
+	Learning Deep Representations of Fine-Grained Visual Descriptions.	2016
+	Learning What and Where to Draw.	2016
+
+Stephen M. Chu	Junchi Yan	Xiaokang Yang	Hongyuan Zha
+	On Machine Learning towards Predictive Sales Pipeline Analytics.	2015
+	Multi-View Point Registration via Alternating Optimization.	2015
+	Discrete hyper-graph matching.	2015
+	On Modeling and Predicting Individual Paper Citation Count over Time.	2016
+	Modeling the Intensity Function of Point Process Via Recurrent Neural Networks.	2017
+
+Zhenxing Niu	Xinbo Gao	Gang Hua	Qi Tian 0001
+	Spatial-DiscLDA for visual recognition.	2011
+	Context aware topic model for scene recognition.	2012
+	Semi-supervised Relational Topic Model for Weakly Annotated Image Recognition in Social Media.	2014
+
+Yingwei Pan	Houqiang Li	Ting Yao	Tao Mei
+	Click-through-based cross-view learning for image search.	2014
+	Semi-supervised Domain Adaptation with Subspace Learning for visual recognition.	2015
+	Semi-supervised Hashing with Semantic Confidence for Large Scale Visual Search.	2015
+	Jointly Modeling Embedding and Translation to Bridge Video and Language.	2016
+	Learning Deep Intrinsic Video Representation by Exploring Temporal Coherence and Graph Structure.	2016
+	Video Captioning with Transferred Semantic Attributes.	2017
+	Seeing Bot.	2017
+
+Yingwei Pan	Houqiang Li	Ting Yao	Yong Rui	Tao Mei
+	Click-through-based cross-view learning for image search.	2014
+	Learning Deep Intrinsic Video Representation by Exploring Temporal Coherence and Graph Structure.	2016
+	Jointly Modeling Embedding and Translation to Bridge Video and Language.	2016
+
+Norihito Yasuda	Masaaki Nishino	Shin-ichi Minato	Masaaki Nagata
+	BDD-Constrained Search: A Unified Approach to Constrained Shortest Path Problems.	2015
+	Zero-Suppressed Sentential Decision Diagrams.	2016
+	BDD-Constrained A* Search: A Fast Method for Solving Constrained DAG Shortest-Path Problems.	2017
+	Dancing with Decision Diagrams: A Combined Approach to Exact Cover.	2017
+	Compiling Graph Substructures into Sentential Decision Diagrams.	2017
+
+Robert Walecki	Ognjen Rudovic	Vladimir Pavlovic	Maja Pantic
+	A Framework for Joint Estimation and Guided Annotation of Facial Action Unit Intensity.	2016
+	Copula Ordinal Regression for Joint Estimation of Facial Action Unit Intensity.	2016
+	Deep Structured Learning for Facial Action Unit Intensity Estimation.	2017
+
+Yongli Hu	Yanfeng Sun	Baocai Yin	Junbin Gao
+	Mixture of Bilateral-Projection Two-Dimensional Probabilistic Principal Component Analysis.	2016
+	Product Grassmann Manifold Representation and Its LRR Models.	2016
+	Locality Preserving Projections for Grassmann manifold.	2017
+
+Songfang Huang	Xin Gao 0001	Zhiwu Lu	Ji-Rong Wen
+	Noise-Robust Semi-Supervised Learning by Large-Scale Sparse Coding.	2015
+	Social Image Parsing by Cross-Modal Data Refinement.	2015
+	FeaBoost: Joint Feature and Label Refinement for Semantic Segmentation.	2017
+
+Alina Bialkowski	Peter Carr 0001	Patrick Lucey	Iain A. Matthews
+	Characterizing Multi-Agent Team Behavior from Partial Team Tracings: Evidence from the English Premier League.	2012
+	Recognising Team Activities from Noisy Data.	2013
+	Representing and Discovering Adversarial Team Behaviors Using Player Roles.	2013
+
+Zhe Gan	Ricardo Henao	Chunyuan Li	Lawrence Carin
+	Deep Temporal Sigmoid Belief Networks for Sequence Modeling.	2015
+	Variational Autoencoder for Deep Learning of Images, Labels and Captions.	2016
+	Adversarial Symmetric Variational Autoencoder.	2017
+	VAE Learning via Stein Variational Gradient Descent.	2017
+
+Jimei Yang	Brian L. Price	Scott Cohen	Ming-Hsuan Yang 0001
+	Context Driven Scene Parsing with Attention to Rare Classes.	2014
+	PatchCut: Data-driven object segmentation via local shape transfer.	2015
+	Object Contour Detection with a Fully Convolutional Encoder-Decoder Network.	2016
+
+Yongfeng Zhang	Shaoping Ma	Min Zhang 0006	Yiqun Liu
+	Improve collaborative filtering through bordered block diagonal form matrices.	2013
+	Do users rate or review?: boost phrase-level sentiment labeling with review-level sentiment classification.	2014
+	Explicit factor models for explainable recommendation based on phrase-level sentiment analysis.	2014
+	Catch the Black Sheep: Unified Framework for Shilling Attack Detection Based on Fraudulent Action Propagation.	2015
+
+Jie Qin	Yunhong Wang	Li Liu 0004	Ling Shao 0001
+	Binary Coding for Partial Action Analysis with Limited Observation Ratios.	2017
+	Zero-Shot Action Recognition with Error-Correcting Output Codes.	2017
+	Fast Person Re-identification via Cross-Camera Semantic Binary Transformation.	2017
+
+Yunhe Wang	Chang Xu 0002	Chao Xu 0006	Dacheng Tao
+	CNNpack: Packing Convolutional Neural Networks in the Frequency Domain.	2016
+	Beyond RPCA: Flattening Complex Noise in the Frequency Domain.	2017
+	Privileged Multi-label Learning.	2017
+
+Kenichiro Tanaka	Hiroyuki Kubo	Yasuhiro Mukaigawa	Yasushi Yagi	Yasuyuki Matsushita
+	Recovering inner slices of translucent objects by multi-frequency illumination.	2015
+	Recovering Transparent Shape from Time-of-Flight Distortion.	2016
+	Material Classification Using Frequency-and Depth-Dependent Time-of-Flight Distortion.	2017
+
+Wenyuan Dai	Gui-Rong Xue	Yong Yu	Qiang Yang 0001
+	Co-clustering based classification for out-of-domain documents.	2007
+	Transferring Naive Bayes Classifiers for Text Classification.	2007
+	Topic-bridged PLSA for cross-domain text classification.	2008
+	Translated Learning: Transfer Learning across Different Feature Spaces.	2008
+	Spectral domain-transfer learning.	2008
+
+Minnan Luo	Qinghua Zheng	Xiaojun Chang	Feiping Nie
+	Avoiding Optimal Mean Robust PCA/2DPCA with Non-greedy ℓ1-Norm Maximization.	2016
+	Probabilistic Non-Negative Matrix Factorization and Its Robust Extensions for Topic Modeling.	2017
+	Adaptive Semi-Supervised Learning with Discriminative Least Squares Regression.	2017
+
+Salvatore Trani	Franco Maria Nardini	Claudio Lucchese	Raffaele Perego 0001
+	Post-Learning Optimization of Tree Ensembles for Efficient Ranking.	2016
+	X-DART: Blending Dropout and Pruning for Efficient Learning to Rank.	2017
+	RankEval: An Evaluation and Analysis Framework for Learning-to-Rank Solutions.	2017
+
+Shuzi Niu	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	Top-k learning to rank: labeling, ranking and evaluation.	2012
+	What makes data robust: a data analysis in learning to rank.	2014
+	Learning for search result diversification.	2014
+
+Patrick Peursum	Senjian An	Wanquan Liu	Svetha Venkatesh
+	Efficient algorithms for subwindow search in object detection and localization.	2009
+	Exploiting Monge structures in optimum subwindow search.	2010
+	Efficient subwindow search with submodular score functions.	2011
+
+Teresa Wu	Kewei Chen	Eric Reiman	Jing Li	Jieping Ye
+	Heterogeneous data fusion for alzheimer's disease study.	2008
+	Learning Brain Connectivity of Alzheimer's Disease from Neuroimaging Data.	2009
+	Mining brain region connectivity for alzheimer's disease study via sparse inverse covariance estimation.	2009
+	Identifying Alzheimer's Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis.	2011
+	Brain effective connectivity modeling for alzheimer's disease by sparse gaussian bayesian network.	2011
+
+Jonathan Taylor	Shahram Izadi	Jamie Shotton	Andrew W. Fitzgibbon
+	User-Specific Hand Modeling from Monocular Depth Sequences.	2014
+	Learning an efficient model of hand shape variation from depth images.	2015
+	Fits Like a Glove: Rapid and Reliable Hand Shape Personalization.	2016
+
+Wei Di	Anurag Bhardwaj	Robinson Piramuthu	Neel Sundaresan
+	Style Finder: Fine-Grained Clothing Style Detection and Retrieval.	2013
+	Palette power: enabling visual search through colors.	2013
+	Large scale visual recommendations from street fashion images.	2014
+
+Hua Wang	Chris H. Q. Ding	Heng Huang	Feiping Nie
+	Maximum Margin Multi-Instance Learning.	2011
+	Robust Principal Component Analysis with Non-Greedy l1-Norm Maximization.	2011
+	Cross-language web page classification via dual knowledge transfer using nonnegative matrix tri-factorization.	2011
+	Adaptive Loss Minimization for Semi-Supervised Elastic Embedding.	2013
+	Early Active Learning via Robust Representation and Structured Sparsity.	2013
+	Heterogeneous Visual Features Fusion via Sparse Multimodal Machine.	2013
+
+Troy Raeder	Brian Dalessandro	Claudia Perlich	Foster J. Provost
+	Bid optimizing and inventory scoring in targeted online advertising.	2012
+	Design principles of massive, robust prediction systems.	2012
+	Using co-visitation networks for detecting large scale online display advertising exchange fraud.	2013
+	Scalable supervised dimensionality reduction using clustering.	2013
+	Scalable hands-free transfer learning for online advertising.	2014
+
+Troy Raeder	Ori Stitelman	Brian Dalessandro	Claudia Perlich	Foster J. Provost
+	Design principles of massive, robust prediction systems.	2012
+	Bid optimizing and inventory scoring in targeted online advertising.	2012
+	Scalable supervised dimensionality reduction using clustering.	2013
+	Using co-visitation networks for detecting large scale online display advertising exchange fraud.	2013
+
+Filippo Bergamasco	Andrea Albarelli	Andrea Torsello	Emanuele Rodolà
+	RUNE-Tag: A high accuracy fiducial marker with strong occlusion resilience.	2011
+	A game-theoretic approach to deformable shape matching.	2012
+	Can a Fully Unconstrained Imaging Model Be Applied Effectively to Central Cameras?	2013
+	Adopting an unconstrained ray model in light-field cameras for 3D shape reconstruction.	2015
+
+Mayu Iwata	Makoto P. Kato	Takehiro Yamamoto	Tetsuya Sakai
+	Exploring semi-automatic nugget extraction for Japanese one click access evaluation.	2013
+	Summary of the NTCIR-10 INTENT-2 task: subtopic mining and search result diversification.	2013
+	Report from the NTCIR-10 1CLICK-2 Japanese subtask: baselines, upperbounds and evaluation robustness.	2013
+
+Jianshu Li	Yunpeng Chen	Jiashi Feng	Shuicheng Yan
+	Estimation of Affective Level in the Wild with Multiple Memory Networks.	2017
+	Self-Supervised Neural Aggregation Networks for Human Parsing.	2017
+	3D-Assisted Coarse-to-Fine Extreme-Pose Facial Landmark Detection.	2017
+
+Jianshu Li	Jian Zhao	Jiashi Feng	Shuicheng Yan
+	Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis.	2017
+	Self-Supervised Neural Aggregation Networks for Human Parsing.	2017
+	Estimation of Affective Level in the Wild with Multiple Memory Networks.	2017
+
+Can Wang 0001	Ziyu Guan	Chun Chen	Jiajun Bu
+	Guide focused crawler efficiently and effectively using on-line topical importance estimation.	2008
+	Personalized tag recommendation using graph-based ranking on multi-type interrelated objects.	2009
+	Can we learn a template-independent wrapper for news article extraction from a single training site?	2009
+
+Can Wang 0001	Lijun Zhang 0005	Chun Chen	Jiajun Bu
+	Modeling Dynamic Multi-Topic Discussions in Online Forums.	2010
+	G-Optimal Design with Laplacian Regularization.	2010
+	Document Summarization Based on Data Reconstruction.	2012
+
+Chun-Hao Huang	Slobodan Ilic	Edmond Boyer	Nassir Navab
+	Human Shape and Pose Tracking Using Keyframes.	2014
+	Toward user-specific tracking by detection of human shapes in multi-cameras.	2015
+	Volumetric 3D Tracking by Detection.	2016
+
+Xiuzi Ye	Mingyu Fan	Di Wang	Xiaoqin Zhang
+	Multi-Modality Tracker Aggregation: From Generative to Discriminative.	2015
+	An Efficient Classifier Based on Hierarchical Mixing Linear Support Vector Machines.	2015
+	Semi-Supervised Dictionary Learning via Structural Sparse Preserving.	2016
+
+Sam S. Tsai	David M. Chen	Radek Grzeszczuk	Bernd Girod
+	CHoG: Compressed histogram of gradients A low bit-rate feature descriptor.	2009
+	Unified Real-Time Tracking and Recognition with Rotation-Invariant Fast Features.	2010
+	Quantization schemes for low bitrate Compressed Histogram of Gradients descriptors.	2010
+	City-scale landmark identification on mobile devices.	2011
+
+Tamir Hazan	Alexander G. Schwing	Marc Pollefeys	Raquel Urtasun
+	Distributed message passing for large scale graphical models.	2011
+	Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins.	2012
+	Efficient structured prediction for 3D indoor scene understanding.	2012
+
+Chun Chen	Jiajun Bu	Xiaofei He	Deng Cai
+	Efficient manifold ranking for image retrieval.	2011
+	Document Summarization Based on Data Reconstruction.	2012
+	Harmonious Hashing.	2013
+
+Baharan Mirzasoleiman	Ashwinkumar Badanidiyuru	Amin Karbasi	Andreas Krause 0001
+	Streaming submodular maximization: massive data summarization on the fly.	2014
+	Lazier Than Lazy Greedy.	2015
+	Distributed Submodular Cover: Succinctly Summarizing Massive Data.	2015
+
+Zenglin Xu	Irwin King	Michael R. Lyu	Rong Jin
+	Efficient Convex Relaxation for Transductive Support Vector Machine.	2007
+	An Extended Level Method for Efficient Multiple Kernel Learning.	2008
+	Adaptive Regularization for Transductive Support Vector Machine.	2009
+	Discriminative Semi-Supervised Feature Selection via Manifold Regularization.	2009
+	Smooth Optimization for Effective Multiple Kernel Learning.	2010
+
+Xiao Cai	Chris H. Q. Ding	Heng Huang	Feiping Nie
+	Efficient and Robust Feature Selection via Joint ℓ2, 1-Norms Minimization.	2010
+	On the equivalent of low-rank linear regressions and linear discriminant analysis based regressions.	2013
+	A Closed Form Solution to Multi-View Low-Rank Regression.	2015
+
+Zhecan Wang	Jianshu Li	Jiashi Feng	Shuicheng Yan
+	Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis.	2017
+	Self-Supervised Neural Aggregation Networks for Human Parsing.	2017
+	3D-Assisted Coarse-to-Fine Extreme-Pose Facial Landmark Detection.	2017
+
+Chong-Wah Ngo	Yingwei Pan	Houqiang Li	Ting Yao	Tao Mei
+	Click-through-based cross-view learning for image search.	2014
+	Semi-supervised Domain Adaptation with Subspace Learning for visual recognition.	2015
+	Semi-supervised Hashing with Semantic Confidence for Large Scale Visual Search.	2015
+
+Xin Li 0016	Shaoping Ma	Min Zhang 0006	Yiqun Liu
+	Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web.	2014
+	Detecting Promotion Campaigns in Community Question Answering.	2015
+	Evaluating Web Search with a Bejeweled Player Model.	2017
+
+Emmanuel Hebrard	George Katsirelos	Christian Bessiere	Toby Walsh
+	Detecting and Exploiting Subproblem Tractability.	2013
+	Constraint Acquisition via Partial Queries.	2013
+	Ranking Constraints.	2016
+
+Shant Karakashian	Robert J. Woodward	Berthe Y. Choueiry	Christian Bessiere
+	A First Practical Algorithm for High Levels of Relational Consistency.	2010
+	Adaptive Neighborhood Inverse Consistency as Lookahead for Non-Binary CSPs.	2011
+	Solving Difficult CSPs with Relational Neighborhood Inverse Consistency.	2011
+
+Li Dong 0004	Ke Xu 0001	Furu Wei	Ming Zhou 0001
+	The Automated Acquisition of Suggestions from Tweets.	2013
+	Adaptive Multi-Compositionality for Recursive Neural Models with Applications to Sentiment Analysis.	2014
+	A Hybrid Neural Model for Type Classification of Entity Mentions.	2015
+
+Kentaro Torisawa	Julien Kloetzer	Jong-Hoon Oh	Chikara Hashimoto
+	Generating Event Causality Hypotheses through Semantic Relations.	2015
+	A Semi-Supervised Learning Approach to Why-Question Answering.	2016
+	Improving Event Causality Recognition with Multiple Background Knowledge Sources Using Multi-Column Convolutional Neural Networks.	2017
+
+Ziqiong Liu	Shengjin Wang	Liang Zheng 0001	Qi Tian 0001
+	Lp-Norm IDF for Large Scale Image Search.	2013
+	Packing and Padding: Coupled Multi-index for Accurate Image Retrieval.	2014
+	Query-adaptive late fusion for image search and person re-identification.	2015
+
+Nihit Desai	Marina Danilevsky	Chi Wang 0001	Jiawei Han 0001
+	AMETHYST: a system for mining and exploring topical hierarchies of heterogeneous data.	2013
+	A phrase mining framework for recursive construction of a topical hierarchy.	2013
+	EventCube: multi-dimensional search and mining of structured and text data.	2013
+
+Fenglong Ma	Lu Su	Qi Li 0012	Jing Gao
+	FaitCrowd: Fine Grained Truth Discovery for Crowdsourced Data Aggregation.	2015
+	Towards Confidence in the Truth: A Bootstrapping based Truth Discovery Approach.	2016
+	Unsupervised Discovery of Drug Side-Effects from Heterogeneous Data Sources.	2017
+
+Akihiko Torii	Masatoshi Okutomi	Josef Sivic	Tomás Pajdla
+	Visual Place Recognition with Repetitive Structures.	2013
+	24/7 place recognition by view synthesis.	2015
+	Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization?	2017
+
+Stefan Hinterstoisser	Vincent Lepetit	Nassir Navab	Pascal Fua
+	Online learning of patch perspective rectification for efficient object detection.	2008
+	Real-time learning of accurate patch rectification.	2009
+	Dominant orientation templates for real-time detection of texture-less objects.	2010
+
+Peter Bailey	Paul Thomas	Alistair Moffat	Falk Scholer
+	User Variability and IR System Evaluation.	2015
+	UQV100: A Test Collection with Query Variability.	2016
+	Retrieval Consistency in the Presence of Query Variations.	2017
+
+Yun Zhu 0001	Albert J. Sinusas	Xenophon Papademetris	James S. Duncan
+	Local Shape Registration Using Boundary-Constrained Match of Skeletons.	2007
+	Segmentation of left ventricle from 3D cardiac MR image sequences using a subject-specific dynamical model.	2008
+	Integrated segmentation and motion analysis of cardiac MR images using a subject-specific dynamical model.	2008
+
+Gabriel Takacs	Sam S. Tsai	David M. Chen	Radek Grzeszczuk	Bernd Girod	Vijay Chandrasekhar
+	CHoG: Compressed histogram of gradients A low bit-rate feature descriptor.	2009
+	Unified Real-Time Tracking and Recognition with Rotation-Invariant Fast Features.	2010
+	Quantization schemes for low bitrate Compressed Histogram of Gradients descriptors.	2010
+
+Paul Duckworth	Muhannad Al-Omari	David C. Hogg	Anthony G. Cohn
+	Natural Language Acquisition and Grounding for Embodied Robotic Systems.	2017
+	Latent Dirichlet Allocation for Unsupervised Activity Analysis on an Autonomous Mobile Robot.	2017
+	Grounding of Human Environments and Activities for Autonomous Robots.	2017
+
+ZhongYang Huang	Zheng Song	Qiang Chen 0007	Shuicheng Yan
+	Contextualizing object detection and classification.	2011
+	Hierarchical matching with side information for image classification.	2012
+	Efficient Maximum Appearance Search for Large-Scale Object Detection.	2013
+
+Yexiang Xue	Bart Selman	Stefano Ermon	Carla P. Gomes
+	Uncovering Hidden Structure through Parallel Problem Decomposition.	2014
+	Uncovering Hidden Structure through Parallel Problem Decomposition for the Set Basis Problem: Application to Materials Discovery.	2015
+	Uncovering Hidden Structure through Parallel Problem Decomposition for the Set Basis Problem.	2015
+	Solving Marginal MAP Problems with NP Oracles and Parity Constraints.	2016
+
+Maria Polukarov	Zinovi Rabinovich	Svetlana Obraztsova	Nicholas R. Jennings
+	Convergence to Equilibria in Strategic Candidacy.	2015
+	On the Convergence of Iterative Voting: How Restrictive Should Restricted Dynamics Be?	2015
+	Trembling Hand Equilibria of Plurality Voting.	2016
+
+Yue Gao	Jungong Han	Yuchen Guo	Guiguang Ding
+	SitNet: Discrete Similarity Transfer Network for Zero-shot Hashing.	2017
+	Synthesizing Samples for Zero-shot Learning.	2017
+	Active Learning with Cross-Class Similarity Transfer.	2017
+	TUCH: Turning Cross-view Hashing into Single-view Hashing via Generative Adversarial Nets.	2017
+	Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels.	2017
+
+Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh
+	Ties Matter: Complexity of Manipulation when Tie-Breaking with a Random Vote.	2013
+	Computational Aspects of Multi-Winner Approval Voting.	2014
+	Fixing a Balanced Knockout Tournament.	2014
+	Equilibria Under the Probabilistic Serial Rule.	2015
+	Interdependent Scheduling Games.	2016
+
+Nikolaus Mayer	Eddy Ilg	Alexey Dosovitskiy	Thomas Brox
+	A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation.	2016
+	DeMoN: Depth and Motion Network for Learning Monocular Stereo.	2017
+	FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.	2017
+
+Ashish Sabharwal	Bart Selman	Stefano Ermon	Carla P. Gomes
+	Accelerated Adaptive Markov Chain for Partition Function Computation.	2011
+	Density Propagation and Improved Bounds on the Partition Function.	2012
+	Embed and Project: Discrete Sampling with Universal Hashing.	2013
+	Designing Fast Absorbing Markov Chains.	2014
+
+Maria Luisa Bonet	Jordi Levy	Felip Manyà	Carlos Ansótegui
+	Inference Rules for High-Order Consistency in Weighted CSP.	2007
+	The Logic Behind Weighted CSP.	2007
+	Measuring the Hardness of SAT Instances.	2008
+
+Shuo Yang	Ping Luo 0002	Chen Change Loy	Xiaoou Tang
+	Deep Representation Learning with Target Coding.	2015
+	DeepID-Net: Deformable deep convolutional neural networks for object detection.	2015
+	WIDER FACE: A Face Detection Benchmark.	2016
+
+Xiaowei Shao	Huijing Zhao	Quanshi Zhang	Xuan Song	Ryosuke Shibasaki
+	Category Modeling from Just a Single Labeling: Use Depth Information to Guide the Learning of 2D Models.	2013
+	When 3D Reconstruction Meets Ubiquitous RGB-D Images.	2014
+	Attributed Graph Mining and Matching: An Attempt to Define and Extract Soft Attributed Patterns.	2014
+
+Xiaowei Shao	Huijing Zhao	Xuan Song	Ryosuke Shibasaki
+	An online approach: Learning-Semantic-Scene-by-Tracking and Tracking-by-Learning-Semantic-Scene.	2010
+	Category Modeling from Just a Single Labeling: Use Depth Information to Guide the Learning of 2D Models.	2013
+	When 3D Reconstruction Meets Ubiquitous RGB-D Images.	2014
+	Attributed Graph Mining and Matching: An Attempt to Define and Extract Soft Attributed Patterns.	2014
+
+Liqun Chen	Yunchen Pu	Chunyuan Li	Lawrence Carin
+	Adversarial Symmetric Variational Autoencoder.	2017
+	ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching.	2017
+	Triangle Generative Adversarial Networks.	2017
+
+Jiashen Sun	Shaoping Ma	Min Zhang 0006	Yiqun Liu
+	Different Users, Different Opinions: Predicting Search Satisfaction with Mouse Movement Information.	2015
+	Detecting Promotion Campaigns in Community Question Answering.	2015
+	When does Relevance Mean Usefulness and User Satisfaction in Web Search?	2016
+
+Xiaoxiao Guo	Richard L. Lewis	Satinder P. Singh	Honglak Lee
+	Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning.	2014
+	Action-Conditional Video Prediction using Deep Networks in Atari Games.	2015
+	Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.	2016
+
+Alessandro Artale	Vladislav Ryzhikov	Roman Kontchakov	Michael Zakharyaschev
+	Past and Future of DL-Lite.	2010
+	First-Order Rewritability of Temporal Ontology-Mediated Queries.	2015
+	Tractable Interval Temporal Propositional and Description Logics.	2015
+
+Jianping Yin	Yong Dou	Xinwang Liu	Lei Wang 0001
+	Absent Multiple Kernel Learning.	2015
+	Multiple Kernel k-Means Clustering with Matrix-Induced Regularization.	2016
+	Multiple Kernel Clustering with Local Kernel Alignment Maximization.	2016
+	Multiple Kernel k-Means with Incomplete Kernels.	2017
+
+Qi Meng	Zhiming Ma	Taifeng Wang	Wei Chen 0034	Tie-Yan Liu
+	Asynchronous Accelerated Stochastic Gradient Descent.	2016
+	A Communication-Efficient Parallel Algorithm for Decision Tree.	2016
+	Generalization Error Bounds for Optimization Algorithms via Stability.	2017
+	Asynchronous Stochastic Proximal Optimization Algorithms with Variance Reduction.	2017
+
+Qi Meng	Taifeng Wang	Wei Chen 0034	Tie-Yan Liu
+	Asynchronous Accelerated Stochastic Gradient Descent.	2016
+	A Communication-Efficient Parallel Algorithm for Decision Tree.	2016
+	Generalization Error Bounds for Optimization Algorithms via Stability.	2017
+	LightGBM: A Highly Efficient Gradient Boosting Decision Tree.	2017
+	Asynchronous Stochastic Proximal Optimization Algorithms with Variance Reduction.	2017
+
+Li Wang	Kap Luk Chan	Bing Wang 0003	Gang Wang 0012
+	Tracklet Association in Detect-Then-Track Paradigm for Long-Term Multi-person Tracking.	2014
+	Tracklet Association with Online Target-Specific Metric Learning.	2014
+	Joint Learning of Convolutional Neural Networks and Temporally Constrained Metrics for Tracklet Association.	2016
+
+Dylan Hadfield-Menell	Anca D. Dragan	Stuart J. Russell	Pieter Abbeel
+	Cooperative Inverse Reinforcement Learning.	2016
+	Inverse Reward Design.	2017
+	The Off-Switch Game.	2017
+
+Yonglong Tian	Ping Luo 0002	Xiaogang Wang	Xiaoou Tang
+	Switchable Deep Network for Pedestrian Detection.	2014
+	Pedestrian detection aided by deep learning semantic tasks.	2015
+	DeepID-Net: Deformable deep convolutional neural networks for object detection.	2015
+
+Eugene Kharitonov	Pavel Serdyukov	Iadh Ounis	Craig Macdonald
+	User model-based metrics for offline query suggestion evaluation.	2013
+	Sequential Testing for Early Stopping of Online Experiments.	2015
+	Optimised Scheduling of Online Experiments.	2015
+
+Shan You	Chang Xu 0002	Chao Xu 0006	Dacheng Tao
+	CNNpack: Packing Convolutional Neural Networks in the Frequency Domain.	2016
+	Learning from Multiple Teacher Networks.	2017
+	Privileged Multi-label Learning.	2017
+
+David S. Bolme	Yui Man Lui	Bruce A. Draper	J. Ross Beveridge
+	Visual object tracking using adaptive correlation filters.	2010
+	Quantifying how lighting and focus affect face recognition performance.	2010
+	Preliminary studies on the Good, the Bad, and the Ugly face recognition challenge problem.	2012
+
+Ting Hua	Feng Chen 0001	Chang-Tien Lu	Naren Ramakrishnan
+	STED: semi-supervised targeted-interest event detectionin in twitter.	2013
+	'Beating the news' with EMBERS: forecasting civil unrest using open source indicators.	2014
+	Topical Analysis of Interactions Between News and Social Media.	2016
+
+Keith Henderson	Tina Eliassi-Rad	Lei Li 0005	Leman Akoglu	Hanghang Tong	Christos Faloutsos
+	Metric forensics: a multi-level approach for mining volatile graphs.	2010
+	It's who you know: graph mining using recursive structural features.	2011
+	RolX: structural role extraction & mining in large graphs.	2012
+
+Rupinder Paul Khandpur	Liang Zhao 0002	Chang-Tien Lu	Naren Ramakrishnan
+	'Beating the news' with EMBERS: forecasting civil unrest using open source indicators.	2014
+	EMBERS at 4 years: Experiences operating an Open Source Indicators Forecasting System.	2016
+	Determining Relative Airport Threats from News and Social Media.	2017
+
+Janardhan Rao Doppa	Xiaoli Z. Fern	Thomas G. Dietterich	Prasad Tadepalli
+	Inverting Grice's Maxims to Learn Rules from Natural Language Extractions.	2011
+	Learning Scripts as Hidden Markov Models.	2014
+	Learning Greedy Policies for the Easy-First Framework.	2015
+
+Kai Zhong	Ian En-Hsu Yen	Pradeep Ravikumar	Inderjit S. Dhillon
+	Proximal Quasi-Newton for Computationally Intensive L1-regularized M-estimators.	2014
+	Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent.	2015
+	Dual Decomposed Learning with Factorwise Oracle for Structural SVM of Large Output Domain.	2016
+
+Maria Silvia Pini	Francesca Rossi	Kristen Brent Venable	Toby Walsh
+	Incompleteness and Incomparability in Preference Aggregation.	2007
+	Winner Determination in Sequential Majority Voting.	2007
+	Dealing with Incomplete Agents' Preferences and an Uncertain Agenda in Group Decision Making via Sequential Majority Voting.	2008
+
+Luchen Tan	Adam Roegiest	Charles L. A. Clarke	Jimmy J. Lin
+	Simple Dynamic Emission Strategies for Microblog Filtering.	2016
+	A Platform for Streaming Push Notifications to Mobile Assessors.	2016
+	An Exploration of Evaluation Metrics for Mobile Push Notifications.	2016
+
+Alkhazur Manakov	Ilya Reshetouski	Ivo Ihrke	Hans-Peter Seidel
+	Three-dimensional kaleidoscopic imaging.	2011
+	A kaleidoscopic approach to surround geometry and reflectance acquisition.	2012
+	Discovering the Structure of a Planar Mirror System from Multiple Observations of a Single Point.	2013
+
+Jun Xiao 0001	Xi Li 0001	Fei Wu 0001	Yueting Zhuang
+	Metric Learning Driven Multi-Task Structured Output Optimization for Robust Keypoint Tracking.	2015
+	Self-Paced Boost Learning for Classification.	2016
+	Diverse Image Captioning via GroupTalk.	2016
+
+Adam Fleisher	Teresa Wu	Shuai Huang	Kewei Chen	Eric Reiman	Jing Li	Jieping Ye
+	Learning Brain Connectivity of Alzheimer's Disease from Neuroimaging Data.	2009
+	Brain effective connectivity modeling for alzheimer's disease by sparse gaussian bayesian network.	2011
+	Identifying Alzheimer's Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis.	2011
+
+Salman Hameed Khan	Roberto Togneri	Ferdous Ahmed Sohel	Mohammed Bennamoun
+	Automatic Feature Learning for Robust Shadow Detection.	2014
+	Separating objects and clutter in indoor scenes.	2015
+	Learning deep structured network for weakly supervised change detection.	2017
+
+Yusheng Xie	Zhengzhang Chen	Ankit Agrawal	Alok N. Choudhary
+	Forecast Oriented Classification of Spatio-Temporal Extreme Events.	2013
+	JobMiner: a real-time system for mining job-related patterns from social media.	2013
+	Distinguish Polarity in Bag-of-Words Visualization.	2017
+
+Xiao Liu 0012	Mingli Song	Chun Chen	Jiajun Bu
+	Semi-supervised Node Splitting for Random Forest Construction.	2013
+	Probabilistic Graphlet Cut: Exploiting Spatial Structure Cue for Weakly Supervised Image Segmentation.	2013
+	Semi-supervised Coupled Dictionary Learning for Person Re-identification.	2014
+	Weakly Supervised Multiclass Video Segmentation.	2014
+
+Xiao Liu 0012	Mingli Song	Chun Chen	Jiajun Bu	Dacheng Tao
+	Semi-supervised Node Splitting for Random Forest Construction.	2013
+	Weakly Supervised Multiclass Video Segmentation.	2014
+	Semi-supervised Coupled Dictionary Learning for Person Re-identification.	2014
+
+Sarah Keren	Luis Enrique Pineda	Avigdor Gal	Erez Karpas	Shlomo Zilberstein
+	Redesigning Stochastic Environments for Maximized Utility.	2017
+	Equi-Reward Utility Maximizing Design in Stochastic Environments.	2017
+
+Arjun Jain	Leonid Pishchulin	Mykhaylo Andriluka	Bernt Schiele
+	Learning people detection models from few training samples.	2011
+	Articulated people detection and pose estimation: Reshaping the future.	2012
+	Efficient ConvNet-based marker-less motion capture in general scenes with a low number of cameras.	2015
+
+Yu Cheng 0001	Yusheng Xie	Ankit Agrawal	Alok N. Choudhary
+	Sentiment identification by incorporating syntax, semantics and context information.	2012
+	VOXSUP: a social engagement framework.	2012
+	JobMiner: a real-time system for mining job-related patterns from social media.	2013
+	Forecast Oriented Classification of Spatio-Temporal Extreme Events.	2013
+
+Paul Stursberg	Serge Gaspers	Nicholas Mattei	Haris Aziz 0001	Toby Walsh
+	Fixing a Balanced Knockout Tournament.	2014
+	Interdependent Scheduling Games.	2016
+
+Arkadii Slinko	Nimrod Talmon	Piotr Skowron	Piotr Faliszewski
+	Committee Scoring Rules: Axiomatic Classification and Hierarchy.	2016
+	Multiwinner Rules on Paths From k-Borda to Chamberlin-Courant.	2017
+	What Do Multiwinner Voting Rules Do? An Experiment Over the Two-Dimensional Euclidean Domain.	2017
+
+Liz Sonenberg	Paolo Felli	Tim Miller	Adrian R. Pearce	Christian J. Muise
+	Planning Over Multi-Agent Epistemic States: A Classical Planning Approach.	2015
+	Computing Social Behaviours Using Agent Models.	2015
+	'Knowing Whether' in Proper Epistemic Knowledge Bases.	2016
+	Planning for a Single Agent in a Multi-Agent Environment Using FOND.	2016
+
+Honghui Shi	Ding Liu	Zhangyang Wang	Thomas S. Huang
+	Epitomic Image Super-Resolution.	2016
+	Balanced Two-Stage Residual Networks for Image Super-Resolution.	2017
+	NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results.	2017
+
+Yingzhen Yang	Zhangyang Wang	Shiyu Chang	Thomas S. Huang
+	Data Clustering by Laplacian Regularized L1-Graph.	2014
+	A Joint Optimization Framework of Sparse Coding and Discriminative Clustering.	2015
+	Self-tuned deep super resolution.	2015
+	Studying Very Low Resolution Recognition Using Deep Networks.	2016
+	Learning A Deep ℓ∞ Encoder for Hashing.	2016
+	Epitomic Image Super-Resolution.	2016
+	D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images.	2016
+
+Yan Duan	Rein Houthooft	John Schulman	Xi Chen 0022	Pieter Abbeel
+	VIME: Variational Information Maximizing Exploration.	2016
+	InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.	2016
+	#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning.	2017
+
+Guni Sharon	Roni Stern	Ariel Felner	Nathan R. Sturtevant
+	Conflict-Based Search for Optimal Multi-Agent Path Finding.	2012
+	Partial-Expansion A* with Selective Node Generation.	2012
+	Conflict-Based Search For Optimal Multi-Agent Path Finding.	2012
+	Partial Domain Search Tree For Constraint-Satisfaction Problems.	2013
+
+Jin Kyu Kim	Seunghak Lee	Qirong Ho	Eric P. Xing
+	More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server.	2013
+	On Model Parallelization and Scheduling Strategies for Distributed Machine Learning.	2014
+	Petuum: A New Platform for Distributed Machine Learning on Big Data.	2015
+
+Dan Xu 0002	Elisa Ricci 0001	Nicu Sebe	Wanli Ouyang	Xiaogang Wang
+	Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction.	2017
+	Learning Cross-Modal Deep Representations for Robust Pedestrian Detection.	2017
+	Multi-scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation.	2017
+
+Bo Jiang 0002	Jin Tang	Bin Luo 0001	Chris H. Q. Ding
+	Graph-Laplacian PCA: Closed-Form Solution and Robustness.	2013
+	A Local Sparse Model for Matching Problem.	2015
+	Nonnegative Orthogonal Graph Matching.	2017
+
+Wiktor Mateusz Piotrowski	Fabio Mercorio	Daniele Magazzeni	Maria Fox	Derek Long
+	Heuristic Planning for PDDL+ Domains.	2016
+	Heuristic Planning for Hybrid Systems.	2016
+	PDDL+ Planning with Temporal Pattern Databases.	2017
+
+Mihalis A. Nicolaou	Irene Kotsia	Guoying Zhao	Stefanos Zafeiriou
+	Facial Affect "In-the-Wild": A Survey and a New Database.	2016
+	Aff-Wild: Valence and Arousal 'In-the-Wild' Challenge.	2017
+	Recognition of Affect in the Wild Using Deep Neural Networks.	2017
+
+Nadia Magnenat-Thalmann	Quan Yuan 0001	Aixin Sun	Gao Cong
+	Category hierarchy maintenance: a data-driven approach.	2012
+	Time-aware point-of-interest recommendation.	2013
+	Who, where, when and what: discover spatio-temporal topics for twitter users.	2013
+
+Aswin Raghavan	Roni Khardon	Prasad Tadepalli	Alan Fern
+	Planning in Factored Action Spaces with Symbolic Dynamic Programming.	2012
+	Symbolic Opportunistic Policy Iteration for Factored-Action MDPs.	2013
+	Relational Markov Decision Processes: Promise and Prospects.	2013
+	Hindsight Optimization for Hybrid State and Action MDPs.	2017
+
+Zhen Zuo	Bing Wang 0003	Bing Shuai	Gang Wang 0012
+	Integrating parametric and non-parametric models for scene labeling.	2015
+	Convolutional recurrent neural networks: Learning spatial dependencies for image representation.	2015
+	DAG-Recurrent Neural Networks for Scene Labeling.	2016
+	Joint Learning of Convolutional Neural Networks and Temporally Constrained Metrics for Tracklet Association.	2016
+
+Bin Xu 0005	Chun Chen	Jiajun Bu	Deng Cai
+	Efficient manifold ranking for image retrieval.	2011
+	A Bregman Divergence Optimization Framework for Ranking on Data Manifold and Its New Extensions.	2012
+	Harmonious Hashing.	2013
+
+Kunpeng Zhang	Yu Cheng 0001	Yusheng Xie	Ankit Agrawal	Alok N. Choudhary
+	Sentiment identification by incorporating syntax, semantics and context information.	2012
+	VOXSUP: a social engagement framework.	2012
+	Forecast Oriented Classification of Spatio-Temporal Extreme Events.	2013
+
+Xinggang Wang	Wenyu Liu	Xiang Bai	Longin Jan Latecki
+	Maximal Cliques that Satisfy Hard Constraints with Application to Deformable Object Model Learning.	2011
+	Feature context for image classification and object detection.	2011
+	Fan Shape Model for object detection.	2012
+
+Yingce Xia	Nenghai Yu	Tao Qin	Tie-Yan Liu
+	Incentivizing High-Quality Content from Heterogeneous Users: On the Existence of Nash Equilibrium.	2014
+	Thompson Sampling for Budgeted Multi-Armed Bandits.	2015
+	Dual Learning for Machine Translation.	2016
+	Budgeted Multi-Armed Bandits with Multiple Plays.	2016
+	Deliberation Networks: Sequence Generation Beyond One-Pass Decoding.	2017
+	Dual Inference for Machine Learning.	2017
+
+Yiming Ma	Liang Zhang	Bee-Chung Chen	Deepak Agarwal
+	Activity ranking in LinkedIn feed.	2014
+	Personalizing LinkedIn Feed.	2015
+	GLMix: Generalized Linear Mixed Models For Large-Scale Response Prediction.	2016
+
+Yunchen Pu	Ricardo Henao	Chunyuan Li	Lawrence Carin
+	Variational Autoencoder for Deep Learning of Images, Labels and Captions.	2016
+	ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching.	2017
+	Adversarial Symmetric Variational Autoencoder.	2017
+	VAE Learning via Stein Variational Gradient Descent.	2017
+
+Yunchen Pu	Zhe Gan	Ricardo Henao	Chunyuan Li	Lawrence Carin
+	Variational Autoencoder for Deep Learning of Images, Labels and Captions.	2016
+	Adversarial Symmetric Variational Autoencoder.	2017
+	VAE Learning via Stein Variational Gradient Descent.	2017
+
+Yunchen Pu	Zhe Gan	Chunyuan Li	Lawrence Carin
+	Learning Weight Uncertainty with Stochastic Gradient MCMC for Shape Classification.	2016
+	Variational Autoencoder for Deep Learning of Images, Labels and Captions.	2016
+	Triangle Generative Adversarial Networks.	2017
+	Adversarial Symmetric Variational Autoencoder.	2017
+	VAE Learning via Stein Variational Gradient Descent.	2017
+
+Jaime Arredondo	Graham Katz	David Mares	Sathappan Muthiah	Naren Ramakrishnan
+	'Beating the news' with EMBERS: forecasting civil unrest using open source indicators.	2014
+	Planned Protest Modeling in News and Social Media.	2015
+	EMBERS at 4 years: Experiences operating an Open Source Indicators Forecasting System.	2016
+
+Miaomiao Li	En Zhu	Jianping Yin	Yong Dou	Xinwang Liu
+	Multiple Kernel Clustering with Local Kernel Alignment Maximization.	2016
+	Multiple Kernel k-Means with Incomplete Kernels.	2017
+	Optimal Neighborhood Kernel Clustering with Multiple Kernels.	2017
+
+Yexi Jiang	Chunqiu Zeng	Lei Li 0001	Tao Li 0001
+	FIU-Miner: a fast, integrated, and user-friendly system for data mining in distributed environment.	2013
+	Applying data mining techniques to address critical process optimization needs in advanced manufacturing.	2014
+	Personalized Recommendation via Parameter-Free Contextual Bandits.	2015
+
+Yexi Jiang	Wubai Zhou	Chunqiu Zeng	Tao Li 0001
+	FIU-Miner: a fast, integrated, and user-friendly system for data mining in distributed environment.	2013
+	Applying data mining techniques to address critical process optimization needs in advanced manufacturing.	2014
+	FLAP: An End-to-End Event Log Analysis Platform for System Management.	2017
+
+Mingdong Ou	Wenwu Zhu 0001	Jun Wang	Peng Cui 0001	Fei Wang 0001
+	Comparing apples to oranges: a scalable solution with heterogeneous hashing.	2013
+	Non-transitive Hashing with Latent Similarity Components.	2015
+	Probabilistic Attributed Hashing.	2015
+
+En Zhu	Jianping Yin	Yong Dou	Xinwang Liu
+	Multiple Kernel k-Means Clustering with Matrix-Induced Regularization.	2016
+	Multiple Kernel Clustering with Local Kernel Alignment Maximization.	2016
+	Multiple Kernel k-Means with Incomplete Kernels.	2017
+	Optimal Neighborhood Kernel Clustering with Multiple Kernels.	2017
+
+En Zhu	Jianping Yin	Yong Dou	Xinwang Liu	Lei Wang 0001
+	Multiple Kernel k-Means Clustering with Matrix-Induced Regularization.	2016
+	Multiple Kernel Clustering with Local Kernel Alignment Maximization.	2016
+	Multiple Kernel k-Means with Incomplete Kernels.	2017
+
+Yinpeng Dong	Hang Su	Bo Zhang 0010	Jun Zhu 0001
+	Crowd Scene Understanding with Coherent Recurrent Neural Networks.	2016
+	Forecast the Plausible Paths in Crowd Scenes.	2017
+	Improving Interpretability of Deep Neural Networks with Semantic Information.	2017
+
+William E. Walsh	Craig Boutilier	David C. Parkes	Tuomas Sandholm
+	Computing Reserve Prices and Identifying the Value Distribution in Real-world Auctions with Market Disruptions.	2008
+	Expressive Banner Ad Auctions and Model-Based Online Optimization for Clearing.	2008
+	Automated Channel Abstraction for Advertising Auctions.	2010
+
+Haoxiang Li	Jonathan Brandt	Xiaohui Shen	Zhe Lin 0001	Gang Hua
+	Efficient Boosted Exemplar-Based Face Detection.	2014
+	A convolutional neural network cascade for face detection.	2015
+	A Multi-level Contextual Model for Person Recognition in Photo Albums.	2016
+
+Haoxiang Li	Jonathan Brandt	Zhe Lin 0001	Gang Hua
+	Probabilistic Elastic Matching for Pose Variant Face Verification.	2013
+	Efficient Boosted Exemplar-Based Face Detection.	2014
+	A convolutional neural network cascade for face detection.	2015
+	A Multi-level Contextual Model for Person Recognition in Photo Albums.	2016
+
+Zhiqi Shen	Cyril Leung	Han Yu	Chunyan Miao
+	Efficient Task Sub-Delegation for Crowdsourcing.	2015
+	Infusing Human Factors into Algorithmic Crowdsourcing.	2016
+	Productive Aging through Intelligent Personalized Crowdsourcing.	2016
+
+Qiang Hao	Yanwei Pang	Rui Cai	Lei Zhang 0001
+	From one tree to a forest: a unified solution for structured web data extraction.	2011
+	3D visual phrases for landmark recognition.	2012
+	Efficient 2D-to-3D Correspondence Filtering for Scalable 3D Object Recognition.	2013
+
+Seyed Hamid Rezatofighi	Anton Milan	Anthony R. Dick	Ian D. Reid 0001
+	Joint Probabilistic Matching Using m-Best Solutions.	2016
+	Data-Driven Approximations to NP-Hard Problems.	2017
+	Online Multi-Target Tracking Using Recurrent Neural Networks.	2017
+
+Qiang Liu 0006	Shu Wu	Liang Wang 0001	Tieniu Tan
+	Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts.	2016
+	SAPE: A System for Situation-Aware Public Security Evaluation.	2016
+	Information Credibility Evaluation on Social Media.	2016
+	A Dynamic Recurrent Model for Next Basket Recommendation.	2016
+	A Convolutional Approach for Misinformation Identification.	2017
+
+Michael K. Schwartz	Kevin S. McKelvey	Claire A. Montgomery	Carla P. Gomes
+	The Steiner Multigraph Problem: Wildlife Corridor Design for Multiple Species.	2011
+	Large Landscape Conservation - Synthetic and Real-World Datasets.	2013
+	Robust Network Design For Multispecies Conservation.	2013
+
+Chenguang Wang	Ming Zhang 0004	Yangqiu Song	Jiawei Han 0001
+	Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations.	2015
+	Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks.	2015
+	Text Classification with Heterogeneous Information Network Kernels.	2016
+
+Krishna V. Shenoy	Byron M. Yu	John P. Cunningham	Maneesh Sahani
+	Inferring Neural Firing Rates from Spike Trains Using Gaussian Processes.	2007
+	Gaussian-process factor analysis for low-dimensional single-trial analysis of neural population activity.	2008
+	Empirical models of spiking in neural populations.	2011
+	Dynamical segmentation of single trials from population neural data.	2011
+
+Ke Zhou	Shaoping Ma	Min Zhang 0006	Yiqun Liu
+	Influence of Vertical Result in Web Search Examination.	2015
+	When does Relevance Mean Usefulness and User Satisfaction in Web Search?	2016
+	Predicting Search User Examination with Visual Saliency.	2016
+	Meta-evaluation of Online and Offline Web Search Evaluation Metrics.	2017
+
+Roozbeh Mottaghi	Sanja Fidler	Alan L. Yuille	Raquel Urtasun
+	Bottom-Up Segmentation for Top-Down Detection.	2013
+	The Role of Context for Object Detection and Semantic Segmentation in the Wild.	2014
+	Detect What You Can: Detecting and Representing Objects Using Holistic Models and Body Parts.	2014
+
+Jun Xu 0001	Yanyan Lan	Jiafeng Guo	Xueqi Cheng
+	Learning Hierarchical Representation Model for NextBasket Recommendation.	2015
+	Learning Maximal Marginal Relevance Model via Directly Optimizing Diversity Evaluation Measures.	2015
+	A Probabilistic Model for Bursty Topic Discovery in Microblogs.	2015
+	Modeling Document Novelty with Neural Tensor Network for Search Result Diversification.	2016
+	Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN.	2016
+	Inside Out: Two Jointly Predictive Models for Word Representations and Phrase Representations.	2016
+	Sparse Word Embeddings Using ℓ1 Regularized Online Learning.	2016
+	SPAN: Understanding a Question with Its Support Answers.	2016
+	A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations.	2016
+	Text Matching as Image Recognition.	2016
+	Reinforcement Learning to Rank with Markov Decision Process.	2017
+	Adapting Markov Decision Process for Search Result Diversification.	2017
+
+Bojan Pepik	Michael Stark 0003	Peter V. Gehler	Bernt Schiele
+	Teaching 3D geometry to deformable part models.	2012
+	Occlusion Patterns for Object Class Detection.	2013
+	3D object class detection in the wild.	2015
+
+Panagiotis Koutsourakis	Olivier Teboul	Loïc Simon	Nikos Paragios
+	Segmentation of building facades using procedural shape priors.	2010
+	Shape grammar parsing via Reinforcement Learning.	2011
+	Parameter-free/Pareto-driven procedural 3D reconstruction of buildings from ground-level sequences.	2012
+
+Wen Sun 0002	Arun Venkatraman	Byron Boots	Martial Hebert
+	Online Instrumental Variable Regression with Applications to Online Linear System Identification.	2016
+	Inference Machines for Nonparametric Filter Learning.	2016
+	Predictive-State Decoders: Encoding the Future into Recurrent Networks.	2017
+
+Eleanor G. Rieffel	Davide Venturelli	Minh Do	Jeremy Frank
+	Parametrized Families of Hard Planning Problems from Phase Transitions.	2014
+	Explorations of Quantum-Classical Approaches to Scheduling a Mars Lander Activity Problem.	2016
+	Temporal Planning for Compilation of Quantum Approximate Optimization Circuits.	2017
+
+Domenico Lembo	Maurizio Lenzerini	Riccardo Rosati	Diego Calvanese	Giuseppe De Giacomo
+	EQL-Lite: Effective First-Order Query Processing in Description Logics.	2007
+	Path-Based Identification Constraints in Description Logics.	2008
+	Data Complexity of Query Answering in Description Logics (Extended Abstract).	2015
+
+Xiaodan Liang	Xiaohui Shen	Liang Lin	Jiashi Feng	Shuicheng Yan
+	Reversible Recursive Instance-Level Object Segmentation.	2016
+	Semantic Object Parsing with Local-Global Long Short-Term Memory.	2016
+	Interpretable Structure-Evolving LSTM.	2017
+
+Xiaodan Liang	Xiaohui Shen	Liang Lin	Shuicheng Yan
+	Matching-CNN meets KNN: Quasi-parametric human parsing.	2015
+	Reversible Recursive Instance-Level Object Segmentation.	2016
+	Semantic Object Parsing with Local-Global Long Short-Term Memory.	2016
+	Interpretable Structure-Evolving LSTM.	2017
+
+Claudia V. Goldman	Zinovi Rabinovich	Amos Azaria	Sarit Kraus
+	Strategic Information Disclosure to People with Multiple Alternatives.	2011
+	Strategic Advice Provision in Repeated Human-Agent Interactions (Abstract).	2012
+	Strategic Advice Provision in Repeated Human-Agent Interactions.	2012
+
+Ya'akov Gal	Claudia V. Goldman	Amos Azaria	Sarit Kraus
+	Strategic Advice Provision in Repeated Human-Agent Interactions (Abstract).	2012
+	Strategic Advice Provision in Repeated Human-Agent Interactions.	2012
+	Advice Provision for Choice Selection Processes with Ranked Options.	2014
+
+Julian Straub	Trevor Campbell	Jonathan P. How	John W. Fisher III
+	Streaming, Distributed Variational Inference for Bayesian Nonparametrics.	2015
+	Small-variance nonparametric clustering on the hypersphere.	2015
+	Efficient Global Point Cloud Alignment Using Bayesian Nonparametric Mixtures.	2017
+
+Mark Hollenbeck	Elliot Meyerson	Alexander Braylan	Risto Miikkulainen
+	On the Cross-Domain Reusability of Neural Modules for General Video Game Playing.	2015
+	Frame Skip Is a Powerful Parameter for Learning to Play Atari.	2015
+	Reuse of Neural Modules for General Video Game Playing.	2016
+
+Huan Wang 0001	Thomas S. Huang	Xiaoou Tang	Shuicheng Yan
+	Trace Ratio vs. Ratio Trace for Dimensionality Reduction.	2007
+	A Convengent Solution to Tensor Subspace Learning.	2007
+	Misalignment-robust face recognition.	2008
+
+Siyu Tang	Bjoern Andres	Mykhaylo Andriluka	Bernt Schiele
+	Subgraph decomposition for multi-target tracking.	2015
+	DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation.	2016
+	Multiple People Tracking by Lifted Multicut and Person Re-identification.	2017
+	ArtTrack: Articulated Multi-Person Tracking in the Wild.	2017
+
